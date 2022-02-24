@@ -1,0 +1,3402 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Hydrostaticks: or, Instructions concerning water-works. Collected out of the papers of Sir Samuel Morland Containing the method which he made use of in this curious art.</title>
+            <author>Morland, Samuel, Sir, 1625-1695.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 80 KB of XML-encoded text transcribed from 44 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A51384</idno>
+            <idno type="STC">Wing M2780</idno>
+            <idno type="STC">ESTC R216827</idno>
+            <idno type="EEBO-CITATION">99828545</idno>
+            <idno type="PROQUEST">99828545</idno>
+            <idno type="VID">32974</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A51384)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 32974)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1931:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Hydrostaticks: or, Instructions concerning water-works. Collected out of the papers of Sir Samuel Morland Containing the method which he made use of in this curious art.</title>
+                  <author>Morland, Samuel, Sir, 1625-1695.</author>
+                  <author>Morland, Joseph, 1670-1716.</author>
+               </titleStmt>
+               <extent>[6], 73, [5] p. : tables  </extent>
+               <publicationStmt>
+                  <publisher>printed for John Lawrence, at the Angel in the Poultrey, over against the Compter,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1697.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"To the Reader" signed: Joseph Morland.</note>
+                  <note>With five final pages of advertisements.</note>
+                  <note>Copy cataloged stained, affecting title page and text.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Hydraulic measurements --  Early works to 1800.</term>
+               <term>Mathematics --  Tables --  Early works to 1800.</term>
+               <term>Hydrostatics --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:32974:1" rendition="simple:additions"/>
+            <p>
+               <hi>HYDROSTATICKS:</hi> OR, INSTRUCTIONS CONCERNING WATER WORKS. COLLECT<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>D Out of the Papers OF Sir <hi>SAM<g ref="char:V">Ʋ</g>EL MORLAND.</hi> CONTAINING The Method which he made uſe of in this Curious Art.</p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>John Lawrence</hi> at the <hi>Angel</hi> in the <hi>Poultrey,</hi> over <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gainſt the <hi>Compter.</hi> 1697.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:32974:2"/>
+            <pb facs="tcp:32974:2"/>
+            <head>TO THE READER.</head>
+            <p>THE following Ta<g ref="char:EOLhyphen"/>bles I Received from Sir <hi>Samuel Mor<g ref="char:EOLhyphen"/>land,</hi> amongſt the reſt of his Mathematical Papers, all of which Kind he was pleaſed to beſtow on me not long before his Death. As for theſe which I now Pub<g ref="char:EOLhyphen"/>liſh, he told me particu<g ref="char:EOLhyphen"/>larly,
+<pb facs="tcp:32974:3"/>that they contained the Myſtery of that Art and nimble Diſpatch, which he was Maſter of, in the Making and Managing of (more eſpecially) ſuch Me<g ref="char:EOLhyphen"/>chanical Engines as re<g ref="char:EOLhyphen"/>late to the Water; in the Improvement of which ſort he was ſo much happier than the reſt of Man<g ref="char:EOLhyphen"/>kind. He thought that it might be an acceptable and uſeful piece of Ser<g ref="char:EOLhyphen"/>vice to the World, to range
+<pb facs="tcp:32974:3"/>theſe Materials in good Order; and where there ſhould be occaſion, to add ſo much light as might make them eaſily Intelligi<g ref="char:EOLhyphen"/>ble to a Common Reader.</p>
+            <p>How I ſhould do this, he gave me large Directions from his own Mouth, and I have punctually obſerved them, in the Compleating of this Piece; ſo that here are plain and eaſy Rules and Di<g ref="char:EOLhyphen"/>rections delivered in a perſpi<g ref="char:EOLhyphen"/>cuous manner, that guide the
+<pb facs="tcp:32974:4"/>Practitioner into the Con<g ref="char:EOLhyphen"/>ciſest way of Calculation in theſe Matters; and almoſt infallibly ſecure him from Miſtakes and Errors, which are ſo vexatious and expenſive. And I think it is not neceſſary to give any larger Account of this Treatiſe. What other of his Papers may hereafter be made Publick, must be left to further Enqui<g ref="char:EOLhyphen"/>ry and Conſideration.</p>
+            <closer>
+               <signed>Joſeph Morland.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div n="1" type="table">
+            <pb n="1" facs="tcp:32974:4"/>
+            <head>THE FIRST TABLE. <hi>A Table of Square Roots of all Numbers from</hi> 1 <hi>to</hi> 100.</head>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label">
+                        <hi>Squ. Num<g ref="char:EOLhyphen"/>ber</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Squa. Roots.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Diffe<g ref="char:EOLhyphen"/>rence</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>1</cell>
+                     <cell>1.00</cell>
+                     <cell>0.41</cell>
+                  </row>
+                  <row>
+                     <cell>2</cell>
+                     <cell>1.41</cell>
+                     <cell>0.32</cell>
+                  </row>
+                  <row>
+                     <cell>3</cell>
+                     <cell>1.73</cell>
+                     <cell>0.27</cell>
+                  </row>
+                  <row>
+                     <cell>4</cell>
+                     <cell>2.00</cell>
+                     <cell>0.24</cell>
+                  </row>
+                  <row>
+                     <cell>5</cell>
+                     <cell>2.24</cell>
+                     <cell>0.21</cell>
+                  </row>
+                  <row>
+                     <cell>6</cell>
+                     <cell>2.45</cell>
+                     <cell>0.20</cell>
+                  </row>
+                  <row>
+                     <cell>7</cell>
+                     <cell>2.65</cell>
+                     <cell>0.18</cell>
+                  </row>
+                  <row>
+                     <cell>8</cell>
+                     <cell>2.83</cell>
+                     <cell>0.17</cell>
+                  </row>
+                  <row>
+                     <cell>9</cell>
+                     <cell>3.00</cell>
+                     <cell>0.16</cell>
+                  </row>
+                  <row>
+                     <cell>10</cell>
+                     <cell>3.16</cell>
+                     <cell>0.16</cell>
+                  </row>
+                  <row>
+                     <cell>11</cell>
+                     <cell>3.32</cell>
+                     <cell>0.14</cell>
+                  </row>
+                  <row>
+                     <cell>12</cell>
+                     <cell>3.46</cell>
+                     <cell>0.15</cell>
+                  </row>
+                  <row>
+                     <cell>13</cell>
+                     <cell>3.61</cell>
+                     <cell>0.13</cell>
+                  </row>
+                  <row>
+                     <cell>14</cell>
+                     <cell>3.74</cell>
+                     <cell>0.13</cell>
+                  </row>
+                  <pb n="2" facs="tcp:32974:5"/>
+                  <row>
+                     <cell>15</cell>
+                     <cell>3.87</cell>
+                     <cell>0.13</cell>
+                  </row>
+                  <row>
+                     <cell>16</cell>
+                     <cell>4.00</cell>
+                     <cell>0.12</cell>
+                  </row>
+                  <row>
+                     <cell>17</cell>
+                     <cell>4.12</cell>
+                     <cell>0.12</cell>
+                  </row>
+                  <row>
+                     <cell>18</cell>
+                     <cell>4.24</cell>
+                     <cell>0.12</cell>
+                  </row>
+                  <row>
+                     <cell>19</cell>
+                     <cell>4.36</cell>
+                     <cell>0.11</cell>
+                  </row>
+                  <row>
+                     <cell>20</cell>
+                     <cell>4.47</cell>
+                     <cell>0.11</cell>
+                  </row>
+                  <row>
+                     <cell>21</cell>
+                     <cell>4.58</cell>
+                     <cell>0.11</cell>
+                  </row>
+                  <row>
+                     <cell>22</cell>
+                     <cell>4.69</cell>
+                     <cell>0.11</cell>
+                  </row>
+                  <row>
+                     <cell>23</cell>
+                     <cell>4.80</cell>
+                     <cell>0.10</cell>
+                  </row>
+                  <row>
+                     <cell>24</cell>
+                     <cell>4.90</cell>
+                     <cell>0.10</cell>
+                  </row>
+                  <row>
+                     <cell>25</cell>
+                     <cell>5.00</cell>
+                     <cell>0.10</cell>
+                  </row>
+                  <row>
+                     <cell>26</cell>
+                     <cell>5.10</cell>
+                     <cell>0.10</cell>
+                  </row>
+                  <row>
+                     <cell>27</cell>
+                     <cell>5.20</cell>
+                     <cell>0.09</cell>
+                  </row>
+                  <row>
+                     <cell>28</cell>
+                     <cell>5.29</cell>
+                     <cell>0.10</cell>
+                  </row>
+                  <row>
+                     <cell>29</cell>
+                     <cell>5.39</cell>
+                     <cell>0.09</cell>
+                  </row>
+                  <row>
+                     <cell>30</cell>
+                     <cell>5.48</cell>
+                     <cell>0.09</cell>
+                  </row>
+                  <row>
+                     <cell>31</cell>
+                     <cell>5.57</cell>
+                     <cell>0.09</cell>
+                  </row>
+                  <row>
+                     <cell>32</cell>
+                     <cell>5.66</cell>
+                     <cell>0.08</cell>
+                  </row>
+                  <row>
+                     <cell>33</cell>
+                     <cell>5.74</cell>
+                     <cell>0.09</cell>
+                  </row>
+                  <row>
+                     <cell>34</cell>
+                     <cell>5.83</cell>
+                     <cell>0.09</cell>
+                  </row>
+                  <row>
+                     <cell>35</cell>
+                     <cell>5.92</cell>
+                     <cell>0.08</cell>
+                  </row>
+                  <row>
+                     <cell>36</cell>
+                     <cell>6.00</cell>
+                     <cell>0.08</cell>
+                  </row>
+                  <row>
+                     <cell>37</cell>
+                     <cell>6.08</cell>
+                     <cell>0.08</cell>
+                  </row>
+                  <row>
+                     <cell>38</cell>
+                     <cell>6.16</cell>
+                     <cell>0.08</cell>
+                  </row>
+                  <row>
+                     <cell>39</cell>
+                     <cell>6.24</cell>
+                     <cell>0.08</cell>
+                  </row>
+                  <row>
+                     <cell>40</cell>
+                     <cell>6.32</cell>
+                     <cell>0.08</cell>
+                  </row>
+                  <row>
+                     <cell>41</cell>
+                     <cell>6.40</cell>
+                     <cell>0.08</cell>
+                  </row>
+                  <row>
+                     <cell>42</cell>
+                     <cell>6.48</cell>
+                     <cell>0.08</cell>
+                  </row>
+                  <row>
+                     <cell>43</cell>
+                     <cell>6.56</cell>
+                     <cell>0.07</cell>
+                  </row>
+                  <row>
+                     <cell>44</cell>
+                     <cell>6.63</cell>
+                     <cell>0.08</cell>
+                  </row>
+                  <row>
+                     <cell>45</cell>
+                     <cell>6.71</cell>
+                     <cell>0.07</cell>
+                  </row>
+                  <row>
+                     <cell>46</cell>
+                     <cell>6.78</cell>
+                     <cell>0.08</cell>
+                  </row>
+                  <row>
+                     <cell>47</cell>
+                     <cell>6.86</cell>
+                     <cell>0.07</cell>
+                  </row>
+                  <row>
+                     <cell>48</cell>
+                     <cell>6.93</cell>
+                     <cell>0.07</cell>
+                  </row>
+                  <row>
+                     <cell>49</cell>
+                     <cell>7.00</cell>
+                     <cell>0.07</cell>
+                  </row>
+                  <row>
+                     <cell>50</cell>
+                     <cell>7.07</cell>
+                     <cell>0.07</cell>
+                  </row>
+                  <row>
+                     <cell>51</cell>
+                     <cell>7.14</cell>
+                     <cell>0.07</cell>
+                  </row>
+                  <row>
+                     <cell>52</cell>
+                     <cell>7.21</cell>
+                     <cell>0.07</cell>
+                  </row>
+                  <pb n="3" facs="tcp:32974:5"/>
+                  <row>
+                     <cell>53</cell>
+                     <cell>7.28</cell>
+                     <cell>0.07</cell>
+                  </row>
+                  <row>
+                     <cell>54</cell>
+                     <cell>7.35</cell>
+                     <cell>0.07</cell>
+                  </row>
+                  <row>
+                     <cell>55</cell>
+                     <cell>7.42</cell>
+                     <cell>0.06</cell>
+                  </row>
+                  <row>
+                     <cell>56</cell>
+                     <cell>7.48</cell>
+                     <cell>0.07</cell>
+                  </row>
+                  <row>
+                     <cell>57</cell>
+                     <cell>7.55</cell>
+                     <cell>0.07</cell>
+                  </row>
+                  <row>
+                     <cell>58</cell>
+                     <cell>7.62</cell>
+                     <cell>0.06</cell>
+                  </row>
+                  <row>
+                     <cell>59</cell>
+                     <cell>7.68</cell>
+                     <cell>0.07</cell>
+                  </row>
+                  <row>
+                     <cell>60</cell>
+                     <cell>7.75</cell>
+                     <cell>0.06</cell>
+                  </row>
+                  <row>
+                     <cell>61</cell>
+                     <cell>7.81</cell>
+                     <cell>0.06</cell>
+                  </row>
+                  <row>
+                     <cell>62</cell>
+                     <cell>7.87</cell>
+                     <cell>0.07</cell>
+                  </row>
+                  <row>
+                     <cell>63</cell>
+                     <cell>7.94</cell>
+                     <cell>0.06</cell>
+                  </row>
+                  <row>
+                     <cell>64</cell>
+                     <cell>8.00</cell>
+                     <cell>0.06</cell>
+                  </row>
+                  <row>
+                     <cell>65</cell>
+                     <cell>8.06</cell>
+                     <cell>0.06</cell>
+                  </row>
+                  <row>
+                     <cell>66</cell>
+                     <cell>8.12</cell>
+                     <cell>0.07</cell>
+                  </row>
+                  <row>
+                     <cell>67</cell>
+                     <cell>8.19</cell>
+                     <cell>0.06</cell>
+                  </row>
+                  <row>
+                     <cell>68</cell>
+                     <cell>8.25</cell>
+                     <cell>0.06</cell>
+                  </row>
+                  <row>
+                     <cell>69</cell>
+                     <cell>8.31</cell>
+                     <cell>0.06</cell>
+                  </row>
+                  <row>
+                     <cell>70</cell>
+                     <cell>8.37</cell>
+                     <cell>0.06</cell>
+                  </row>
+                  <row>
+                     <cell>71</cell>
+                     <cell>8.43</cell>
+                     <cell>0.06</cell>
+                  </row>
+                  <row>
+                     <cell>72</cell>
+                     <cell>8.49</cell>
+                     <cell>0.05</cell>
+                  </row>
+                  <row>
+                     <cell>73</cell>
+                     <cell>8.54</cell>
+                     <cell>0.06</cell>
+                  </row>
+                  <row>
+                     <cell>74</cell>
+                     <cell>8.60</cell>
+                     <cell>0.06</cell>
+                  </row>
+                  <row>
+                     <cell>75</cell>
+                     <cell>8.66</cell>
+                     <cell>0.06</cell>
+                  </row>
+                  <row>
+                     <cell>76</cell>
+                     <cell>8.72</cell>
+                     <cell>0.05</cell>
+                  </row>
+                  <row>
+                     <cell>77</cell>
+                     <cell>8.77</cell>
+                     <cell>0.06</cell>
+                  </row>
+                  <row>
+                     <cell>78</cell>
+                     <cell>8.83</cell>
+                     <cell>0.06</cell>
+                  </row>
+                  <row>
+                     <cell>79</cell>
+                     <cell>8.87</cell>
+                     <cell>0.05</cell>
+                  </row>
+                  <row>
+                     <cell>80</cell>
+                     <cell>8.94</cell>
+                     <cell>0.06</cell>
+                  </row>
+                  <row>
+                     <cell>81</cell>
+                     <cell>9.00</cell>
+                     <cell>0.06</cell>
+                  </row>
+                  <row>
+                     <cell>82</cell>
+                     <cell>9.06</cell>
+                     <cell>0.05</cell>
+                  </row>
+                  <row>
+                     <cell>83</cell>
+                     <cell>9.11</cell>
+                     <cell>0.06</cell>
+                  </row>
+                  <row>
+                     <cell>84</cell>
+                     <cell>9.17</cell>
+                     <cell>0.05</cell>
+                  </row>
+                  <row>
+                     <cell>85</cell>
+                     <cell>9.22</cell>
+                     <cell>0.05</cell>
+                  </row>
+                  <row>
+                     <cell>86</cell>
+                     <cell>9.27</cell>
+                     <cell>0.06</cell>
+                  </row>
+                  <row>
+                     <cell>87</cell>
+                     <cell>9.33</cell>
+                     <cell>0.05</cell>
+                  </row>
+                  <row>
+                     <cell>88</cell>
+                     <cell>9.38</cell>
+                     <cell>0.05</cell>
+                  </row>
+                  <row>
+                     <cell>89</cell>
+                     <cell>9.43</cell>
+                     <cell>0.06</cell>
+                  </row>
+                  <row>
+                     <cell>90</cell>
+                     <cell>9.49</cell>
+                     <cell>0.05</cell>
+                  </row>
+                  <pb n="4" facs="tcp:32974:6"/>
+                  <row>
+                     <cell>91</cell>
+                     <cell>9.54</cell>
+                     <cell>0.05</cell>
+                  </row>
+                  <row>
+                     <cell>92</cell>
+                     <cell>9.59</cell>
+                     <cell>0.05</cell>
+                  </row>
+                  <row>
+                     <cell>93</cell>
+                     <cell>9.64</cell>
+                     <cell>0.06</cell>
+                  </row>
+                  <row>
+                     <cell>94</cell>
+                     <cell>9.70</cell>
+                     <cell>0.05</cell>
+                  </row>
+                  <row>
+                     <cell>95</cell>
+                     <cell>9.75</cell>
+                     <cell>0.05</cell>
+                  </row>
+                  <row>
+                     <cell>96</cell>
+                     <cell>9.80</cell>
+                     <cell>0.05</cell>
+                  </row>
+                  <row>
+                     <cell>97</cell>
+                     <cell>9.85</cell>
+                     <cell>0.05</cell>
+                  </row>
+                  <row>
+                     <cell>98</cell>
+                     <cell>9.90</cell>
+                     <cell>0.05</cell>
+                  </row>
+                  <row>
+                     <cell>99</cell>
+                     <cell>9.95</cell>
+                     <cell>0.05</cell>
+                  </row>
+                  <row>
+                     <cell>100</cell>
+                     <cell>10.00</cell>
+                     <cell> </cell>
+                  </row>
+               </table>
+            </p>
+            <div type="application">
+               <pb n="5" facs="tcp:32974:6"/>
+               <head>
+                  <hi>The <g ref="char:V">Ʋ</g>ſe of the foregoing</hi> TABLE. To find the Square Root of any given Number as far as Three Figures.</head>
+               <p>DIſtinguiſh the given Number by Points, as is uſual in the Extracting of Square Roots, and obſerve how many Figures belong to the firſt Point, which will be either one or two: If only one, then ſeek that Figure in the fore<g ref="char:EOLhyphen"/>going Table of Square Roots, in the firſt Column from one to nine incluſive, and write out the Root
+<pb n="6" facs="tcp:32974:7"/>ſtanding directly over-againſt it in the ſecond Column; and take al<g ref="char:EOLhyphen"/>ſo the next lower difference out of the third Column, which you Multiply by the two next Figures of your given Number, and from the Product cut off two Figures, and add the remainder to the Root firſt written out. The Sum is the deſired Root. But if there be two Figures belonging to the firſt Point, then ſeek them in the firſt Column from 10 to 99 incluſive, and pro<g ref="char:EOLhyphen"/>ceed as before.</p>
+               <p>
+                  <hi>Example.</hi> Extract the Square Root out of 276438. the Num<g ref="char:EOLhyphen"/>ber diſtinguiſhed by the Points ſtandeth thus; 27̣64̣38̣. and the Figures belonging to the firſt Point are 27. which being look'd in the firſt Column, you find o<g ref="char:EOLhyphen"/>ver againſt it in the ſecond Co<g ref="char:EOLhyphen"/>lumn 520. and in the third Co<g ref="char:EOLhyphen"/>lumn
+<pb n="7" facs="tcp:32974:7"/>the next lower difference 10, which Multiplied by 64 (the two next following Figures in the given Number) the Pro<g ref="char:EOLhyphen"/>duct is 640. and cutting off two Figures, the remainder is 6. to be added to 520. and the deſired Root is 526.</p>
+            </div>
+         </div>
+         <div n="2" type="table">
+            <pb n="8" facs="tcp:32974:8"/>
+            <head>THE SECOND TABLE. <hi>A</hi> TABLE <hi>of Cube Roots, from</hi> 1 <hi>to</hi> 10, <hi>and then continued for every Tenth Number from</hi> 10 <hi>to</hi> 100.</head>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label">
+                        <hi>Num<g ref="char:EOLhyphen"/>ber</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Cube Roots</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Diffe<g ref="char:EOLhyphen"/>rence</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>1</cell>
+                     <cell>1.00</cell>
+                     <cell>0.26</cell>
+                  </row>
+                  <row>
+                     <cell>2</cell>
+                     <cell>1.26</cell>
+                     <cell>0.18</cell>
+                  </row>
+                  <row>
+                     <cell>3</cell>
+                     <cell>1.44</cell>
+                     <cell>0.15</cell>
+                  </row>
+                  <row>
+                     <cell>4</cell>
+                     <cell>1.59</cell>
+                     <cell>0.12</cell>
+                  </row>
+                  <row>
+                     <cell>5</cell>
+                     <cell>1.71</cell>
+                     <cell>0.11</cell>
+                  </row>
+                  <row>
+                     <cell>6</cell>
+                     <cell>1.82</cell>
+                     <cell>0.09</cell>
+                  </row>
+                  <pb n="9" facs="tcp:32974:8"/>
+                  <row>
+                     <cell>7</cell>
+                     <cell>1.91</cell>
+                     <cell>0.09</cell>
+                  </row>
+                  <row>
+                     <cell>8</cell>
+                     <cell>2.00</cell>
+                     <cell>0.08</cell>
+                  </row>
+                  <row>
+                     <cell>9</cell>
+                     <cell>2.08</cell>
+                     <cell>0.07</cell>
+                  </row>
+                  <row>
+                     <cell>10</cell>
+                     <cell>2.15</cell>
+                     <cell>0.56</cell>
+                  </row>
+                  <row>
+                     <cell>20</cell>
+                     <cell>2.71</cell>
+                     <cell>0.40</cell>
+                  </row>
+                  <row>
+                     <cell>30</cell>
+                     <cell>3.11</cell>
+                     <cell>0.31</cell>
+                  </row>
+                  <row>
+                     <cell>40</cell>
+                     <cell>3.42</cell>
+                     <cell>0.26</cell>
+                  </row>
+                  <row>
+                     <cell>50</cell>
+                     <cell>3.68</cell>
+                     <cell>0.23</cell>
+                  </row>
+                  <row>
+                     <cell>60</cell>
+                     <cell>3.91</cell>
+                     <cell>0.21</cell>
+                  </row>
+                  <row>
+                     <cell>70</cell>
+                     <cell>4.12</cell>
+                     <cell>0.19</cell>
+                  </row>
+                  <row>
+                     <cell>80</cell>
+                     <cell>4.31</cell>
+                     <cell>0.17</cell>
+                  </row>
+                  <row>
+                     <cell>90</cell>
+                     <cell>4.48</cell>
+                     <cell>0.16</cell>
+                  </row>
+                  <row>
+                     <cell>100</cell>
+                     <cell>4.64</cell>
+                     <cell>0.15</cell>
+                  </row>
+                  <row>
+                     <cell>110</cell>
+                     <cell>4.79</cell>
+                     <cell>0.14</cell>
+                  </row>
+                  <row>
+                     <cell>120</cell>
+                     <cell>4.93</cell>
+                     <cell>0.14</cell>
+                  </row>
+                  <row>
+                     <cell>130</cell>
+                     <cell>5.07</cell>
+                     <cell>0.12</cell>
+                  </row>
+                  <row>
+                     <cell>140</cell>
+                     <cell>5.19</cell>
+                     <cell>0.12</cell>
+                  </row>
+                  <row>
+                     <cell>150</cell>
+                     <cell>5.31</cell>
+                     <cell>0.12</cell>
+                  </row>
+                  <row>
+                     <cell>160</cell>
+                     <cell>5.43</cell>
+                     <cell>0.11</cell>
+                  </row>
+                  <row>
+                     <cell>170</cell>
+                     <cell>5.54</cell>
+                     <cell>0.11</cell>
+                  </row>
+                  <row>
+                     <cell>180</cell>
+                     <cell>5.65</cell>
+                     <cell>0.10</cell>
+                  </row>
+                  <row>
+                     <cell>190</cell>
+                     <cell>5.75</cell>
+                     <cell>0.10</cell>
+                  </row>
+                  <row>
+                     <cell>200</cell>
+                     <cell>5.85</cell>
+                     <cell>0.09</cell>
+                  </row>
+                  <row>
+                     <cell>210</cell>
+                     <cell>5.94</cell>
+                     <cell>0.09</cell>
+                  </row>
+                  <row>
+                     <cell>220</cell>
+                     <cell>6.04</cell>
+                     <cell>0.09</cell>
+                  </row>
+                  <row>
+                     <cell>230</cell>
+                     <cell>6.13</cell>
+                     <cell>0.08</cell>
+                  </row>
+                  <row>
+                     <cell>240</cell>
+                     <cell>6.21</cell>
+                     <cell>0.09</cell>
+                  </row>
+                  <row>
+                     <cell>250</cell>
+                     <cell>6.30</cell>
+                     <cell>0.08</cell>
+                  </row>
+                  <row>
+                     <cell>260</cell>
+                     <cell>6.38</cell>
+                     <cell>0.08</cell>
+                  </row>
+                  <row>
+                     <cell>270</cell>
+                     <cell>6.46</cell>
+                     <cell>0.08</cell>
+                  </row>
+                  <row>
+                     <cell>280</cell>
+                     <cell>6.54</cell>
+                     <cell>0.08</cell>
+                  </row>
+                  <row>
+                     <cell>290</cell>
+                     <cell>6.62</cell>
+                     <cell>0.07</cell>
+                  </row>
+                  <row>
+                     <cell>300</cell>
+                     <cell>6.69</cell>
+                     <cell>0.07</cell>
+                  </row>
+                  <row>
+                     <cell>310</cell>
+                     <cell>6.77</cell>
+                     <cell>0.07</cell>
+                  </row>
+                  <row>
+                     <cell>320</cell>
+                     <cell>6.84</cell>
+                     <cell>0.07</cell>
+                  </row>
+                  <row>
+                     <cell>330</cell>
+                     <cell>6.91</cell>
+                     <cell>0.07</cell>
+                  </row>
+                  <row>
+                     <cell>340</cell>
+                     <cell>6.98</cell>
+                     <cell>0.07</cell>
+                  </row>
+                  <row>
+                     <cell>350</cell>
+                     <cell>7.05</cell>
+                     <cell>0.06</cell>
+                  </row>
+                  <pb n="10" facs="tcp:32974:9"/>
+                  <row>
+                     <cell>360</cell>
+                     <cell>7.11</cell>
+                     <cell>0.07</cell>
+                  </row>
+                  <row>
+                     <cell>370</cell>
+                     <cell>7.18</cell>
+                     <cell>0.06</cell>
+                  </row>
+                  <row>
+                     <cell>380</cell>
+                     <cell>7.24</cell>
+                     <cell>0.07</cell>
+                  </row>
+                  <row>
+                     <cell>390</cell>
+                     <cell>7.31</cell>
+                     <cell>0.06</cell>
+                  </row>
+                  <row>
+                     <cell>400</cell>
+                     <cell>7.37</cell>
+                     <cell>0.06</cell>
+                  </row>
+                  <row>
+                     <cell>410</cell>
+                     <cell>7.43</cell>
+                     <cell>0.06</cell>
+                  </row>
+                  <row>
+                     <cell>420</cell>
+                     <cell>7.49</cell>
+                     <cell>0.06</cell>
+                  </row>
+                  <row>
+                     <cell>430</cell>
+                     <cell>7.55</cell>
+                     <cell>0.06</cell>
+                  </row>
+                  <row>
+                     <cell>440</cell>
+                     <cell>7.61</cell>
+                     <cell>0.05</cell>
+                  </row>
+                  <row>
+                     <cell>450</cell>
+                     <cell>7.66</cell>
+                     <cell>0.06</cell>
+                  </row>
+                  <row>
+                     <cell>460</cell>
+                     <cell>7.72</cell>
+                     <cell>0.05</cell>
+                  </row>
+                  <row>
+                     <cell>470</cell>
+                     <cell>7.77</cell>
+                     <cell>0.06</cell>
+                  </row>
+                  <row>
+                     <cell>480</cell>
+                     <cell>7.83</cell>
+                     <cell>0.05</cell>
+                  </row>
+                  <row>
+                     <cell>490</cell>
+                     <cell>7.88</cell>
+                     <cell>0.06</cell>
+                  </row>
+                  <row>
+                     <cell>500</cell>
+                     <cell>7.94</cell>
+                     <cell>0.05</cell>
+                  </row>
+                  <row>
+                     <cell>510</cell>
+                     <cell>7.99</cell>
+                     <cell>0.05</cell>
+                  </row>
+                  <row>
+                     <cell>520</cell>
+                     <cell>8.04</cell>
+                     <cell>0.05</cell>
+                  </row>
+                  <row>
+                     <cell>530</cell>
+                     <cell>8.09</cell>
+                     <cell>0.05</cell>
+                  </row>
+                  <row>
+                     <cell>540</cell>
+                     <cell>8.14</cell>
+                     <cell>0.05</cell>
+                  </row>
+                  <row>
+                     <cell>550</cell>
+                     <cell>8.19</cell>
+                     <cell>0.05</cell>
+                  </row>
+                  <row>
+                     <cell>560</cell>
+                     <cell>8.24</cell>
+                     <cell>0.05</cell>
+                  </row>
+                  <row>
+                     <cell>570</cell>
+                     <cell>8.29</cell>
+                     <cell>0.05</cell>
+                  </row>
+                  <row>
+                     <cell>580</cell>
+                     <cell>8.34</cell>
+                     <cell>0.05</cell>
+                  </row>
+                  <row>
+                     <cell>590</cell>
+                     <cell>8.39</cell>
+                     <cell>0.04</cell>
+                  </row>
+                  <row>
+                     <cell>600</cell>
+                     <cell>8.43</cell>
+                     <cell>0.05</cell>
+                  </row>
+                  <row>
+                     <cell>610</cell>
+                     <cell>8.48</cell>
+                     <cell>0.05</cell>
+                  </row>
+                  <row>
+                     <cell>620</cell>
+                     <cell>8.53</cell>
+                     <cell>0.04</cell>
+                  </row>
+                  <row>
+                     <cell>630</cell>
+                     <cell>8.57</cell>
+                     <cell>0.05</cell>
+                  </row>
+                  <row>
+                     <cell>640</cell>
+                     <cell>8.62</cell>
+                     <cell>0.04</cell>
+                  </row>
+                  <row>
+                     <cell>650</cell>
+                     <cell>8.66</cell>
+                     <cell>0.05</cell>
+                  </row>
+                  <row>
+                     <cell>660</cell>
+                     <cell>8.71</cell>
+                     <cell>0.04</cell>
+                  </row>
+                  <row>
+                     <cell>670</cell>
+                     <cell>8.75</cell>
+                     <cell>0.04</cell>
+                  </row>
+                  <row>
+                     <cell>680</cell>
+                     <cell>8.79</cell>
+                     <cell>0.05</cell>
+                  </row>
+                  <row>
+                     <cell>690</cell>
+                     <cell>8.84</cell>
+                     <cell>0.05</cell>
+                  </row>
+                  <row>
+                     <cell>700</cell>
+                     <cell>8.89</cell>
+                     <cell>0.03</cell>
+                  </row>
+                  <row>
+                     <cell>710</cell>
+                     <cell>8.92</cell>
+                     <cell>0.04</cell>
+                  </row>
+                  <row>
+                     <cell>720</cell>
+                     <cell>8.96</cell>
+                     <cell>0.04</cell>
+                  </row>
+                  <row>
+                     <cell>730</cell>
+                     <cell>9.00</cell>
+                     <cell>0.04</cell>
+                  </row>
+                  <pb n="11" facs="tcp:32974:9"/>
+                  <row>
+                     <cell>740</cell>
+                     <cell>9.04</cell>
+                     <cell>0.05</cell>
+                  </row>
+                  <row>
+                     <cell>750</cell>
+                     <cell>9.09</cell>
+                     <cell>0.04</cell>
+                  </row>
+                  <row>
+                     <cell>760</cell>
+                     <cell>9.13</cell>
+                     <cell>0.04</cell>
+                  </row>
+                  <row>
+                     <cell>770</cell>
+                     <cell>9.17</cell>
+                     <cell>0.04</cell>
+                  </row>
+                  <row>
+                     <cell>780</cell>
+                     <cell>9.21</cell>
+                     <cell>0.03</cell>
+                  </row>
+                  <row>
+                     <cell>790</cell>
+                     <cell>9.24</cell>
+                     <cell>0.04</cell>
+                  </row>
+                  <row>
+                     <cell>800</cell>
+                     <cell>9.28</cell>
+                     <cell>0.05</cell>
+                  </row>
+                  <row>
+                     <cell>810</cell>
+                     <cell>9.33</cell>
+                     <cell>0.03</cell>
+                  </row>
+                  <row>
+                     <cell>820</cell>
+                     <cell>9.36</cell>
+                     <cell>0.04</cell>
+                  </row>
+                  <row>
+                     <cell>830</cell>
+                     <cell>9.40</cell>
+                     <cell>0.04</cell>
+                  </row>
+                  <row>
+                     <cell>840</cell>
+                     <cell>9.44</cell>
+                     <cell>0.03</cell>
+                  </row>
+                  <row>
+                     <cell>850</cell>
+                     <cell>9.47</cell>
+                     <cell>0.04</cell>
+                  </row>
+                  <row>
+                     <cell>860</cell>
+                     <cell>9.51</cell>
+                     <cell>0.04</cell>
+                  </row>
+                  <row>
+                     <cell>870</cell>
+                     <cell>9.55</cell>
+                     <cell>0.03</cell>
+                  </row>
+                  <row>
+                     <cell>880</cell>
+                     <cell>9.58</cell>
+                     <cell>0.04</cell>
+                  </row>
+                  <row>
+                     <cell>890</cell>
+                     <cell>9.62</cell>
+                     <cell>0.03</cell>
+                  </row>
+                  <row>
+                     <cell>900</cell>
+                     <cell>9.65</cell>
+                     <cell>0.04</cell>
+                  </row>
+                  <row>
+                     <cell>910</cell>
+                     <cell>9.69</cell>
+                     <cell>0.04</cell>
+                  </row>
+                  <row>
+                     <cell>920</cell>
+                     <cell>9.73</cell>
+                     <cell>0.03</cell>
+                  </row>
+                  <row>
+                     <cell>930</cell>
+                     <cell>9.76</cell>
+                     <cell>0.04</cell>
+                  </row>
+                  <row>
+                     <cell>940</cell>
+                     <cell>9.80</cell>
+                     <cell>0.03</cell>
+                  </row>
+                  <row>
+                     <cell>950</cell>
+                     <cell>9.83</cell>
+                     <cell>0.03</cell>
+                  </row>
+                  <row>
+                     <cell>960</cell>
+                     <cell>9.86</cell>
+                     <cell>0.04</cell>
+                  </row>
+                  <row>
+                     <cell>970</cell>
+                     <cell>9.90</cell>
+                     <cell>0.03</cell>
+                  </row>
+                  <row>
+                     <cell>980</cell>
+                     <cell>9.93</cell>
+                     <cell>0.04</cell>
+                  </row>
+                  <row>
+                     <cell>990</cell>
+                     <cell>9.97</cell>
+                     <cell>0.03</cell>
+                  </row>
+                  <row>
+                     <cell>1000</cell>
+                     <cell>10.00</cell>
+                     <cell> </cell>
+                  </row>
+               </table>
+            </p>
+            <div type="application">
+               <pb n="12" facs="tcp:32974:10"/>
+               <head>
+                  <hi>The <g ref="char:V">Ʋ</g>ſe of the Second</hi> TABLE. To find the Cubick Root of any given Number as far as Three Figures.</head>
+               <p>DIſtinguiſh the given Number by Points, as is uſual in Extracting Cubick Roots. Then to the firſt Point towards the left Hand, there will belong either one Figure, or two, or three Fi<g ref="char:EOLhyphen"/>gures. If it be one, then look the ſame in the Table of Cubick Roots, from 1 to 9 incluſive, if there be two Figures belonging to the firſt Point, then look the firſt of them from 10 to 90 in<g ref="char:EOLhyphen"/>cluſive,
+<pb n="13" facs="tcp:32974:10"/>if there be three, look the two firſt from 100 to 990 incluſive, and write out the Root ſtanding directly over-againſt it in the Second Column, and the next lower Difference out of the third Column, which you Multiply by the two next Figures of your given Number, and from the Pro<g ref="char:EOLhyphen"/>duct cut off two Figures, and add the remainder to the Root firſt written out: The Sum is the deſired Root.</p>
+               <p>
+                  <hi>Example.</hi> Extract the Cubick Root out of 34̣167̣942̣. The Number diſtinguiſhed by Points ſtandeth thus: 34167942. and the Figures belonging to the firſt Point are 34, whereof the firſt, <hi>viz.</hi> 3. is to be look'd between 10 and 90. incluſive; and you find 30. and the Root of this in the Second Column 311. to be written out,
+<pb n="14" facs="tcp:32974:11"/>and the next leſſer Difference in the third Column is 31. which Multiplied by 41. (the two next fol<g ref="char:EOLhyphen"/>lowing Figures in the given Num<g ref="char:EOLhyphen"/>ber) the Product is 1271. and cutting off two Figures, the re<g ref="char:EOLhyphen"/>mainder is 12 or 13. (becauſe the Figures cut off, <hi>viz.</hi> 71. are more than the half of 100.) which ad<g ref="char:EOLhyphen"/>ded to 311. (the Root firſt writ<g ref="char:EOLhyphen"/>ten out) the Sum is 324. the de<g ref="char:EOLhyphen"/>ſired Cubick Root.</p>
+            </div>
+         </div>
+         <div n="3" type="table">
+            <pb n="15" facs="tcp:32974:11"/>
+            <head>THE THIRD TABLE. <hi>A</hi> TABLE <hi>of Cube-Root-Inches, from a Pint to a Gallon, from a Gallon to a Barrel, from a Barrel to a Tun, from One Tun to Se<g ref="char:EOLhyphen"/>venty, and from thence by Decimal Steps to</hi> 10000.</head>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label">
+                        <hi>Pints</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Cube Root Inch.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>1</cell>
+                     <cell>3.27</cell>
+                  </row>
+                  <row>
+                     <cell>2</cell>
+                     <cell>4.16</cell>
+                  </row>
+                  <row>
+                     <cell>3</cell>
+                     <cell>4.72</cell>
+                  </row>
+                  <row>
+                     <cell>4</cell>
+                     <cell>5.20</cell>
+                  </row>
+                  <row>
+                     <cell>5</cell>
+                     <cell>5.60</cell>
+                  </row>
+                  <row>
+                     <cell>6</cell>
+                     <cell>5.95</cell>
+                  </row>
+                  <row>
+                     <cell>7</cell>
+                     <cell>6.27</cell>
+                  </row>
+               </table>
+               <pb n="16" facs="tcp:32974:12"/>
+               <table>
+                  <row>
+                     <cell role="label">Firkins</cell>
+                     <cell role="label">
+                        <hi>Gallons</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Cube Root Inch.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>1</cell>
+                     <cell>6.55</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>2</cell>
+                     <cell>8.26</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>3</cell>
+                     <cell>9.45</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>4</cell>
+                     <cell>10.40</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>5</cell>
+                     <cell>11.21</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>6</cell>
+                     <cell>11.91</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>7</cell>
+                     <cell>12.54</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>8</cell>
+                     <cell>13.11</cell>
+                  </row>
+                  <row>
+                     <cell>1)</cell>
+                     <cell>9</cell>
+                     <cell>13.63</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>10</cell>
+                     <cell>14.12</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>11</cell>
+                     <cell>14.58</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>12</cell>
+                     <cell>15.01</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>13</cell>
+                     <cell>15.41</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>14</cell>
+                     <cell>15.80</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>15</cell>
+                     <cell>16.17</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>16</cell>
+                     <cell>16.52</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>17</cell>
+                     <cell>16.86</cell>
+                  </row>
+                  <row>
+                     <cell>2)</cell>
+                     <cell>18</cell>
+                     <cell>17.18</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>19</cell>
+                     <cell>17.49</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>20</cell>
+                     <cell>17.80</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>21</cell>
+                     <cell>18.09</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>22</cell>
+                     <cell>18.37</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>23</cell>
+                     <cell>18.64</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>24</cell>
+                     <cell>18.91</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>25</cell>
+                     <cell>19.17</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>26</cell>
+                     <cell>19.42</cell>
+                  </row>
+                  <row>
+                     <cell>3)</cell>
+                     <cell>27</cell>
+                     <cell>19.67</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>28</cell>
+                     <cell>19.91</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>29</cell>
+                     <cell>20.14</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>30</cell>
+                     <cell>20.37</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>31</cell>
+                     <cell>20.60</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>32</cell>
+                     <cell>20.81</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>33</cell>
+                     <cell>21.03</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>34</cell>
+                     <cell>21.24</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>35</cell>
+                     <cell>21.45</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>36</cell>
+                     <cell>21.65</cell>
+                  </row>
+               </table>
+            </p>
+            <pb n="17" facs="tcp:32974:12"/>
+            <p>
+               <table>
+                  <head>Cube-Root-Inches of Barrels and Tuns.</head>
+                  <row>
+                     <cell role="label">Tuns</cell>
+                     <cell role="label">
+                        <hi>Barrels</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Cube Root Inch.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>1</cell>
+                     <cell>21.65</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>2</cell>
+                     <cell>27.28</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>3</cell>
+                     <cell>31.22</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>4</cell>
+                     <cell>34.37</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>5</cell>
+                     <cell>37.02</cell>
+                  </row>
+                  <row>
+                     <cell>1) </cell>
+                     <cell>6</cell>
+                     <cell>39.34</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>7</cell>
+                     <cell>41.42</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>8</cell>
+                     <cell>43.31</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>9</cell>
+                     <cell>45.03</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>10</cell>
+                     <cell>46.65</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>11</cell>
+                     <cell>48.15</cell>
+                  </row>
+                  <row>
+                     <cell>2) </cell>
+                     <cell>12</cell>
+                     <cell>49.57</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>13</cell>
+                     <cell>50.91</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>14</cell>
+                     <cell>52.18</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>15</cell>
+                     <cell>53.40</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>16</cell>
+                     <cell>54.56</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>17</cell>
+                     <cell>55.67</cell>
+                  </row>
+                  <row>
+                     <cell>3) </cell>
+                     <cell>18</cell>
+                     <cell>56.74</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>19</cell>
+                     <cell>57.77</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>20</cell>
+                     <cell>58.77</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>21</cell>
+                     <cell>59.73</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>22</cell>
+                     <cell>60.67</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>23</cell>
+                     <cell>61.57</cell>
+                  </row>
+                  <row>
+                     <cell>4) </cell>
+                     <cell>24</cell>
+                     <cell>62.45</cell>
+                  </row>
+                  <pb n="18" facs="tcp:32974:13"/>
+                  <row>
+                     <cell> </cell>
+                     <cell>25</cell>
+                     <cell>63.31</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>26</cell>
+                     <cell>64.14</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>27</cell>
+                     <cell>65.75</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>28</cell>
+                     <cell>65.95</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>29</cell>
+                     <cell>66.52</cell>
+                  </row>
+                  <row>
+                     <cell>5) </cell>
+                     <cell>30</cell>
+                     <cell>67.28</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>31</cell>
+                     <cell>68.01</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>32</cell>
+                     <cell>68.74</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>33</cell>
+                     <cell>69.45</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>34</cell>
+                     <cell>70.14</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>35</cell>
+                     <cell>70.82</cell>
+                  </row>
+                  <row>
+                     <cell>6) </cell>
+                     <cell>36</cell>
+                     <cell>71.49</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>37</cell>
+                     <cell>72.15</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>38</cell>
+                     <cell>72.79</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>39</cell>
+                     <cell>73.42</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>40</cell>
+                     <cell>74.05</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>41</cell>
+                     <cell>74.66</cell>
+                  </row>
+                  <row>
+                     <cell>7) </cell>
+                     <cell>42</cell>
+                     <cell>75.26</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>43</cell>
+                     <cell>75.86</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>44</cell>
+                     <cell>76.44</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>45</cell>
+                     <cell>77.01</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>46</cell>
+                     <cell>77.58</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>47</cell>
+                     <cell>78.14</cell>
+                  </row>
+                  <row>
+                     <cell>8) </cell>
+                     <cell>48</cell>
+                     <cell>78.69</cell>
+                  </row>
+               </table>
+            </p>
+            <pb n="19" facs="tcp:32974:13"/>
+            <p>
+               <table>
+                  <head>Cube-Root-Inches of Tuns.</head>
+                  <row>
+                     <cell role="label">
+                        <hi>Tuns</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Cube Root Inch.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>9</cell>
+                     <cell>81.84</cell>
+                  </row>
+                  <row>
+                     <cell>10</cell>
+                     <cell>84.76</cell>
+                  </row>
+                  <row>
+                     <cell>11</cell>
+                     <cell>87.50</cell>
+                  </row>
+                  <row>
+                     <cell>12</cell>
+                     <cell>90.07</cell>
+                  </row>
+                  <row>
+                     <cell>13</cell>
+                     <cell>92.51</cell>
+                  </row>
+                  <row>
+                     <cell>14</cell>
+                     <cell>94.82</cell>
+                  </row>
+                  <row>
+                     <cell>15</cell>
+                     <cell>97.03</cell>
+                  </row>
+                  <row>
+                     <cell>16</cell>
+                     <cell>99.14</cell>
+                  </row>
+                  <row>
+                     <cell>17</cell>
+                     <cell>101.16</cell>
+                  </row>
+                  <row>
+                     <cell>18</cell>
+                     <cell>103.11</cell>
+                  </row>
+                  <row>
+                     <cell>19</cell>
+                     <cell>104.95</cell>
+                  </row>
+                  <row>
+                     <cell>20</cell>
+                     <cell>106.80</cell>
+                  </row>
+                  <row>
+                     <cell>21</cell>
+                     <cell>108.55</cell>
+                  </row>
+                  <row>
+                     <cell>22</cell>
+                     <cell>110.24</cell>
+                  </row>
+                  <row>
+                     <cell>23</cell>
+                     <cell>111.89</cell>
+                  </row>
+                  <row>
+                     <cell>24</cell>
+                     <cell>113.49</cell>
+                  </row>
+                  <row>
+                     <cell>25</cell>
+                     <cell>115.04</cell>
+                  </row>
+                  <row>
+                     <cell>26</cell>
+                     <cell>116.56</cell>
+                  </row>
+                  <row>
+                     <cell>27</cell>
+                     <cell>118.03</cell>
+                  </row>
+                  <row>
+                     <cell>28</cell>
+                     <cell>119.47</cell>
+                  </row>
+                  <row>
+                     <cell>29</cell>
+                     <cell>120.88</cell>
+                  </row>
+                  <row>
+                     <cell>30</cell>
+                     <cell>122.25</cell>
+                  </row>
+                  <row>
+                     <cell>31</cell>
+                     <cell>123.60</cell>
+                  </row>
+                  <row>
+                     <cell>32</cell>
+                     <cell>124.91</cell>
+                  </row>
+                  <row>
+                     <cell>33</cell>
+                     <cell>126.20</cell>
+                  </row>
+                  <row>
+                     <cell>34</cell>
+                     <cell>127.46</cell>
+                  </row>
+                  <row>
+                     <cell>35</cell>
+                     <cell>128.70</cell>
+                  </row>
+                  <row>
+                     <cell>36</cell>
+                     <cell>129.91</cell>
+                  </row>
+                  <row>
+                     <cell>37</cell>
+                     <cell>131.10</cell>
+                  </row>
+                  <row>
+                     <cell>38</cell>
+                     <cell>132.28</cell>
+                  </row>
+                  <row>
+                     <cell>39</cell>
+                     <cell>133.40</cell>
+                  </row>
+                  <row>
+                     <cell>40</cell>
+                     <cell>134.56</cell>
+                  </row>
+                  <pb n="20" facs="tcp:32974:14"/>
+                  <row>
+                     <cell>41</cell>
+                     <cell>135.67</cell>
+                  </row>
+                  <row>
+                     <cell>42</cell>
+                     <cell>136.76</cell>
+                  </row>
+                  <row>
+                     <cell>43</cell>
+                     <cell>137.84</cell>
+                  </row>
+                  <row>
+                     <cell>44</cell>
+                     <cell>138.90</cell>
+                  </row>
+                  <row>
+                     <cell>45</cell>
+                     <cell>139.94</cell>
+                  </row>
+                  <row>
+                     <cell>46</cell>
+                     <cell>140.97</cell>
+                  </row>
+                  <row>
+                     <cell>47</cell>
+                     <cell>141.99</cell>
+                  </row>
+                  <row>
+                     <cell>48</cell>
+                     <cell>142.99</cell>
+                  </row>
+                  <row>
+                     <cell>49</cell>
+                     <cell>143.97</cell>
+                  </row>
+                  <row>
+                     <cell>50</cell>
+                     <cell>144.95</cell>
+                  </row>
+                  <row>
+                     <cell>51</cell>
+                     <cell>145.91</cell>
+                  </row>
+                  <row>
+                     <cell>52</cell>
+                     <cell>146.86</cell>
+                  </row>
+                  <row>
+                     <cell>53</cell>
+                     <cell>147.80</cell>
+                  </row>
+                  <row>
+                     <cell>54</cell>
+                     <cell>148.71</cell>
+                  </row>
+                  <row>
+                     <cell>55</cell>
+                     <cell>149.63</cell>
+                  </row>
+                  <row>
+                     <cell>56</cell>
+                     <cell>150.53</cell>
+                  </row>
+                  <row>
+                     <cell>57</cell>
+                     <cell>151.42</cell>
+                  </row>
+                  <row>
+                     <cell>58</cell>
+                     <cell>152.30</cell>
+                  </row>
+                  <row>
+                     <cell>59</cell>
+                     <cell>153.17</cell>
+                  </row>
+                  <row>
+                     <cell>60</cell>
+                     <cell>154.03</cell>
+                  </row>
+                  <row>
+                     <cell>61</cell>
+                     <cell>154.88</cell>
+                  </row>
+                  <row>
+                     <cell>62</cell>
+                     <cell>155.73</cell>
+                  </row>
+                  <row>
+                     <cell>63</cell>
+                     <cell>156.56</cell>
+                  </row>
+                  <row>
+                     <cell>64</cell>
+                     <cell>157.38</cell>
+                  </row>
+                  <row>
+                     <cell>65</cell>
+                     <cell>158.20</cell>
+                  </row>
+                  <row>
+                     <cell>66</cell>
+                     <cell>159.01</cell>
+                  </row>
+                  <row>
+                     <cell>67</cell>
+                     <cell>159.80</cell>
+                  </row>
+                  <row>
+                     <cell>68</cell>
+                     <cell>160.60</cell>
+                  </row>
+                  <row>
+                     <cell>69</cell>
+                     <cell>161.38</cell>
+                  </row>
+                  <row>
+                     <cell>70</cell>
+                     <cell>162.15</cell>
+                  </row>
+                  <row>
+                     <cell>80</cell>
+                     <cell>169.53</cell>
+                  </row>
+                  <row>
+                     <cell>90</cell>
+                     <cell>176.32</cell>
+                  </row>
+                  <pb n="21" facs="tcp:32974:14"/>
+                  <row>
+                     <cell>100</cell>
+                     <cell>182.62</cell>
+                  </row>
+                  <row>
+                     <cell>200</cell>
+                     <cell>230.09</cell>
+                  </row>
+                  <row>
+                     <cell>300</cell>
+                     <cell>263.39</cell>
+                  </row>
+                  <row>
+                     <cell>400</cell>
+                     <cell>289.90</cell>
+                  </row>
+                  <row>
+                     <cell>500</cell>
+                     <cell>312.28</cell>
+                  </row>
+                  <row>
+                     <cell>600</cell>
+                     <cell>331.85</cell>
+                  </row>
+                  <row>
+                     <cell>700</cell>
+                     <cell>349.35</cell>
+                  </row>
+                  <row>
+                     <cell>800</cell>
+                     <cell>365.25</cell>
+                  </row>
+                  <row>
+                     <cell>900</cell>
+                     <cell>379.88</cell>
+                  </row>
+                  <row>
+                     <cell>1000</cell>
+                     <cell>393.46</cell>
+                  </row>
+                  <row>
+                     <cell>2000</cell>
+                     <cell>495.73</cell>
+                  </row>
+                  <row>
+                     <cell>3000</cell>
+                     <cell>567.47</cell>
+                  </row>
+                  <row>
+                     <cell>4000</cell>
+                     <cell>624.58</cell>
+                  </row>
+                  <row>
+                     <cell>5000</cell>
+                     <cell>672.81</cell>
+                  </row>
+                  <row>
+                     <cell>6000</cell>
+                     <cell>714.96</cell>
+                  </row>
+                  <row>
+                     <cell>7000</cell>
+                     <cell>752.66</cell>
+                  </row>
+                  <row>
+                     <cell>8000</cell>
+                     <cell>768.92</cell>
+                  </row>
+                  <row>
+                     <cell>9000</cell>
+                     <cell>818.43</cell>
+                  </row>
+                  <row>
+                     <cell>10000</cell>
+                     <cell>847.68</cell>
+                  </row>
+                  <row>
+                     <cell>20000</cell>
+                     <cell>1068.06</cell>
+                  </row>
+                  <row>
+                     <cell>30000</cell>
+                     <cell>1222.57</cell>
+                  </row>
+                  <row>
+                     <cell>40000</cell>
+                     <cell>1345.61</cell>
+                  </row>
+                  <row>
+                     <cell>50000</cell>
+                     <cell>1449.52</cell>
+                  </row>
+                  <row>
+                     <cell>60000</cell>
+                     <cell>1540.34</cell>
+                  </row>
+                  <row>
+                     <cell>70000</cell>
+                     <cell>1621.56</cell>
+                  </row>
+                  <row>
+                     <cell>80000</cell>
+                     <cell>1695.37</cell>
+                  </row>
+                  <row>
+                     <cell>90000</cell>
+                     <cell>1763.25</cell>
+                  </row>
+                  <row>
+                     <cell>CM.</cell>
+                     <cell>1826.28</cell>
+                  </row>
+               </table>
+            </p>
+            <pb n="22" facs="tcp:32974:15"/>
+            <p>THE Uſe of this third Table is ſo Obvious to every Mans Capacity, that it needs no Expla<g ref="char:EOLhyphen"/>nation; for if there be occaſion to make any Veſſel in a Cubical Form, of which the Content ought to be a Pint, a Quart, a Gallon, <hi>&amp;c.</hi> This Table gives the Cubick Roots of their Re<g ref="char:EOLhyphen"/>ſpective Dimenſions.</p>
+         </div>
+         <div n="4" type="table">
+            <pb n="23" facs="tcp:32974:15"/>
+            <head>THE FOURTH TABLE. <hi>A</hi> TABLE <hi>ſhewing the true Content of Cubick Feet, (from</hi> 1 <hi>to</hi> 5) <hi>in Gallons and Cubick Inches, and (from</hi> 5 <hi>to</hi> 1000) <hi>in Barrels, Gallons, and Cubick In<g ref="char:EOLhyphen"/>ches.</hi>
+            </head>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label">
+                        <hi>Cubick Feet</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Barrels</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Gallons</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Cubick Inches</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>1</cell>
+                     <cell>0</cell>
+                     <cell>6</cell>
+                     <cell>36</cell>
+                  </row>
+                  <row>
+                     <cell>2</cell>
+                     <cell>0</cell>
+                     <cell>12</cell>
+                     <cell>72</cell>
+                  </row>
+                  <row>
+                     <cell>3</cell>
+                     <cell>0</cell>
+                     <cell>18</cell>
+                     <cell>108</cell>
+                  </row>
+                  <row>
+                     <cell>4</cell>
+                     <cell>0</cell>
+                     <cell>24</cell>
+                     <cell>144</cell>
+                  </row>
+                  <pb n="24" facs="tcp:32974:16"/>
+                  <row>
+                     <cell>5</cell>
+                     <cell>0</cell>
+                     <cell>30</cell>
+                     <cell>180</cell>
+                  </row>
+                  <row>
+                     <cell>6</cell>
+                     <cell>1</cell>
+                     <cell>00</cell>
+                     <cell>216</cell>
+                  </row>
+                  <row>
+                     <cell>7</cell>
+                     <cell>1</cell>
+                     <cell>6</cell>
+                     <cell>252</cell>
+                  </row>
+                  <row>
+                     <cell>8</cell>
+                     <cell>1</cell>
+                     <cell>13</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>9</cell>
+                     <cell>1</cell>
+                     <cell>19</cell>
+                     <cell>42</cell>
+                  </row>
+                  <row>
+                     <cell>10</cell>
+                     <cell>1</cell>
+                     <cell>25</cell>
+                     <cell>78</cell>
+                  </row>
+                  <row>
+                     <cell>11</cell>
+                     <cell>1</cell>
+                     <cell>31</cell>
+                     <cell>114</cell>
+                  </row>
+                  <row>
+                     <cell>12</cell>
+                     <cell>2</cell>
+                     <cell>1</cell>
+                     <cell>150</cell>
+                  </row>
+                  <row>
+                     <cell>13</cell>
+                     <cell>2</cell>
+                     <cell>7</cell>
+                     <cell>186</cell>
+                  </row>
+                  <row>
+                     <cell>14</cell>
+                     <cell>2</cell>
+                     <cell>13</cell>
+                     <cell>222</cell>
+                  </row>
+                  <row>
+                     <cell>15</cell>
+                     <cell>2</cell>
+                     <cell>19</cell>
+                     <cell>258</cell>
+                  </row>
+                  <row>
+                     <cell>16</cell>
+                     <cell>2</cell>
+                     <cell>26</cell>
+                     <cell>12</cell>
+                  </row>
+                  <row>
+                     <cell>17</cell>
+                     <cell>2</cell>
+                     <cell>32</cell>
+                     <cell>48</cell>
+                  </row>
+                  <row>
+                     <cell>18</cell>
+                     <cell>3</cell>
+                     <cell>2</cell>
+                     <cell>84</cell>
+                  </row>
+                  <row>
+                     <cell>19</cell>
+                     <cell>3</cell>
+                     <cell>8</cell>
+                     <cell>120</cell>
+                  </row>
+                  <row>
+                     <cell>20</cell>
+                     <cell>3</cell>
+                     <cell>14</cell>
+                     <cell>156</cell>
+                  </row>
+                  <row>
+                     <cell>30</cell>
+                     <cell>5</cell>
+                     <cell>3</cell>
+                     <cell>234</cell>
+                  </row>
+                  <row>
+                     <cell>40</cell>
+                     <cell>6</cell>
+                     <cell>29</cell>
+                     <cell>30</cell>
+                  </row>
+                  <row>
+                     <cell>50</cell>
+                     <cell>8</cell>
+                     <cell>18</cell>
+                     <cell>108</cell>
+                  </row>
+                  <row>
+                     <cell>60</cell>
+                     <cell>10</cell>
+                     <cell>7</cell>
+                     <cell>186</cell>
+                  </row>
+                  <pb n="25" facs="tcp:32974:16"/>
+                  <row>
+                     <cell>70</cell>
+                     <cell>11</cell>
+                     <cell>32</cell>
+                     <cell>264</cell>
+                  </row>
+                  <row>
+                     <cell>80</cell>
+                     <cell>13</cell>
+                     <cell>22</cell>
+                     <cell>60</cell>
+                  </row>
+                  <row>
+                     <cell>90</cell>
+                     <cell>15</cell>
+                     <cell>11</cell>
+                     <cell>138</cell>
+                  </row>
+                  <row>
+                     <cell>100</cell>
+                     <cell>17</cell>
+                     <cell>00</cell>
+                     <cell>216</cell>
+                  </row>
+                  <row>
+                     <cell>200</cell>
+                     <cell>34</cell>
+                     <cell>1</cell>
+                     <cell>150</cell>
+                  </row>
+                  <row>
+                     <cell>300</cell>
+                     <cell>51</cell>
+                     <cell>2</cell>
+                     <cell>84</cell>
+                  </row>
+                  <row>
+                     <cell>400</cell>
+                     <cell>68</cell>
+                     <cell>3</cell>
+                     <cell>18</cell>
+                  </row>
+                  <row>
+                     <cell>500</cell>
+                     <cell>85</cell>
+                     <cell>3</cell>
+                     <cell>234</cell>
+                  </row>
+                  <row>
+                     <cell>600</cell>
+                     <cell>102</cell>
+                     <cell>4</cell>
+                     <cell>168</cell>
+                  </row>
+                  <row>
+                     <cell>700</cell>
+                     <cell>119</cell>
+                     <cell>5</cell>
+                     <cell>102</cell>
+                  </row>
+                  <row>
+                     <cell>800</cell>
+                     <cell>136</cell>
+                     <cell>6</cell>
+                     <cell>36</cell>
+                  </row>
+                  <row>
+                     <cell>900</cell>
+                     <cell>153</cell>
+                     <cell>6</cell>
+                     <cell>252</cell>
+                  </row>
+                  <row>
+                     <cell>1000</cell>
+                     <cell>170</cell>
+                     <cell>7</cell>
+                     <cell>186</cell>
+                  </row>
+               </table>
+            </p>
+            <div type="uses">
+               <pb n="26" facs="tcp:32974:17"/>
+               <head>
+                  <hi>The ſeveral <g ref="char:V">Ʋ</g>ſes of the Fourth</hi> TABLE.</head>
+               <div n="1" type="application">
+                  <head>Firſt Uſe.</head>
+                  <p>ONE Uſe of this Table is this, <hi>viz.</hi> either by having given the Dimenſions of any Rect<g ref="char:EOLhyphen"/>angular Veſſel, whoſe ſides are Plain, to find the true Content in Gallons, Barrels, <hi>&amp;c.</hi> or elſe, the Content of any ſuch Veſſel being given with one of its three Dimenſions, to determine the two remaining Dimenſions.</p>
+                  <p>
+                     <hi>Firſt,</hi> Let it be required to know the true Content of a Rectan<g ref="char:EOLhyphen"/>gular
+<pb n="27" facs="tcp:32974:17"/>Veſſel, of which the length is ſeven, the breadth three, and the height five Feet.</p>
+                  <p>
+                     <hi>The Anſwer is this:</hi> 7 into 3 into 5, make 105 Cubick Feet: Now by this Table I find that 100 Cubick Feet contain 17 <hi>Barr.</hi> 216. <hi>Cub. In.</hi> and by the ſame 5 Cubick Feet, contain 30 <hi>Gall.</hi> 180 <hi>Cub. In.</hi> which two Sums being added together make 17 <hi>Bar.</hi> 31 <hi>Gall.</hi> 114 <hi>Cub. In.</hi> which is the Content of the aforeſaid Veſſel.</p>
+                  <p>
+                     <hi>Again,</hi> The Content of a Veſ<g ref="char:EOLhyphen"/>ſel being given (<hi>viz.</hi> four Bar<g ref="char:EOLhyphen"/>rels) and the length of that Veſſel (ſix Feet) let it be re<g ref="char:EOLhyphen"/>quired
+<pb n="28" facs="tcp:32974:18"/>to find the Breadth and Depth.</p>
+                  <p>
+                     <hi>Anſwer,</hi> By this Table I find that ſix Cubick Feet contain one Barrel, and 216 Cubick Inches. By this I know the Content of a Veſſel, whoſe Length is ſix Feet, its Breadth one, and its Height one; therefore two ſuch Veſ<g ref="char:EOLhyphen"/>ſels joined together upon a Plane, or (which is all one) a Veſſel ſix Feet long, two Feet wide, and one Foot deep, contains two Barrels, one Gallon, and one Hundred and fifty Cubick Inches, and by Conſequence a Veſſel ſix Feet long, two Feet wide, and two Feet deep, contains four Bar<g ref="char:EOLhyphen"/>rels, three Gallons, and eighteen Cubick Inches, which is ſome<g ref="char:EOLhyphen"/>thing over the given Content, but near enough for common uſe. And by this Method may any
+<pb n="29" facs="tcp:32974:18"/>Ciſtern be deſigned near enough the Truth, with great Eaſe and Expedition.</p>
+                  <p>But if it be required to per<g ref="char:EOLhyphen"/>form theſe or the like Operati<g ref="char:EOLhyphen"/>ons more exactly, the follow<g ref="char:EOLhyphen"/>ing Method will guide the Practi<g ref="char:EOLhyphen"/>tioner, ſeveral <hi>Precognita</hi> being firſt laid down.</p>
+                  <p n="1">1. The Original of all long Meaſures is an Inch, whereof twelve make a Standard <hi>Engliſh</hi> Foot, 36 Inches make a Yard; 72 make a Fathom, 198 make a Perch, 7920 make a Furlong, 65360 make a Mile.</p>
+                  <p n="2">2. The Original of all Square Meaſures is a Square Inch, where<g ref="char:EOLhyphen"/>of 144 make a Square Foot, 1296 make a Square Yard, 39204
+<pb n="30" facs="tcp:32974:19" rendition="simple:additions"/>make a Square Rod, 6272640 make a Square Acre.</p>
+                  <p n="3">3. Of all Solid Meaſures the Original is a Cubick Inch, where<g ref="char:EOLhyphen"/>of 1728 make a Cubick Foot, 15,552, make a Cubick Yard.</p>
+                  <p>Again 35<g ref="char:decimalL">⌊</g>25 make a Pint, 70<g ref="char:decimalL">⌊</g>5 make a Quart, 282 make a Gallon, 10,152 make a Barrel, or Thirty ſix Gallons; 60,912 make a Tun or Six Barrels.</p>
+                  <p n="4">4. Any one Number being Multiplied either by it ſelf, or a<g ref="char:EOLhyphen"/>ny other Number, and that Pro<g ref="char:EOLhyphen"/>duct Multiplied by any third Number make a Solid, or the Content of a Rectangular Ciſtern, whoſe ſides are plain.</p>
+                  <p>Theſe <hi>Precognita</hi> being laid
+<pb n="31" facs="tcp:32974:19"/>down the Operations will be as follow:</p>
+                  <p>
+                     <hi>For Example,</hi> The Content of a Ciſtern being given, <hi>viz.</hi> Four Barrels, and the length of that Ciſtern ſix Feet: Let it be re<g ref="char:EOLhyphen"/>quired to find out two Num<g ref="char:EOLhyphen"/>bers, which being Multiplied one into another, and that Product into the given Length, make a Con<g ref="char:EOLhyphen"/>tent equal to Four Barrels.</p>
+                  <p>Having firſt Reduced the given Terms to their leaſt Denomina<g ref="char:EOLhyphen"/>tions, the <hi>General Rule</hi> is this:</p>
+                  <p>The Content of any Rectan<g ref="char:EOLhyphen"/>gular Veſſel being given toge<g ref="char:EOLhyphen"/>ther, with either the length, or breadth, or Depth of that Ci<g ref="char:EOLhyphen"/>ſtern: Divide the given Con<g ref="char:EOLhyphen"/>tent by the given Dimenſion, and the Quotient by any Num<g ref="char:EOLhyphen"/>ber
+<pb n="32" facs="tcp:32974:20" rendition="simple:additions"/>leſs than it ſelf: The laſt Di<g ref="char:EOLhyphen"/>viſor and Quotient are the two Terms ſought.</p>
+                  <p>Thus having reduced the Four Barrels to 40,608 Inches, and the given 6 Feet to to 72 Inches, I divide the ſaid 40,608 by the ſaid 72. And again I divide the Quotient 564 Inches by a<g ref="char:EOLhyphen"/>ny Number leſs than it ſelf, ſup<g ref="char:EOLhyphen"/>poſe 40, the laſt Diviſor 40, and its Quotient 14<g ref="char:decimalL">⌊</g>1 are the two ſides required. And after this Method may infinite Anſwers be given to this Queſtion; ſo that the Operator in the ſecond Di<g ref="char:EOLhyphen"/>viſion may from the given length chuſe either what Depth or Breadth he pleaſes, or from a given given Depth may chuſe what
+<pb n="33" facs="tcp:32974:20"/>Length or Breadth he plea<g ref="char:EOLhyphen"/>ſes.</p>
+               </div>
+               <div n="2" type="application">
+                  <head>
+                     <hi>The Second <g ref="char:V">Ʋ</g>ſe of the Fourth</hi> TABLE.</head>
+                  <p>To Explain this Uſe it is ne<g ref="char:EOLhyphen"/>ceſſary to premiſe this following <hi>Theorem:</hi>
+                  </p>
+                  <p>
+                     <hi>Like Solids are in proportion one to another, as the Cubes of their He<g ref="char:EOLhyphen"/>mologous ſides.</hi>
+                  </p>
+                  <p>Upon which <hi>Theorem</hi> depends this <hi>Problem:</hi>
+                  </p>
+                  <p>Having the Content of a Ci<g ref="char:EOLhyphen"/>ſtern, together with the Ratio of the Length, Breadth and Height given to find the ſides.</p>
+                  <pb n="34" facs="tcp:32974:21"/>
+                  <p n="1">I. <hi>Example,</hi> Let it be demand<g ref="char:EOLhyphen"/>ed to frame a Ciſtern contain<g ref="char:EOLhyphen"/>ing 1000 Cubick Feet, and the Ratio of the ſides or three Di<g ref="char:EOLhyphen"/>menſions, let be one two and four.</p>
+                  <p>Firſt, I imagine, or frame in my mind, a Ciſtern, whoſe
+<table>
+                        <row>
+                           <cell>Length</cell>
+                           <cell>4</cell>
+                        </row>
+                        <row>
+                           <cell>Breadth</cell>
+                           <cell>2</cell>
+                        </row>
+                        <row>
+                           <cell>Height</cell>
+                           <cell>1</cell>
+                        </row>
+                     </table> The Content of it is 4×2×1=(8)</p>
+                  <p>Therefore I ſay,</p>
+                  <p n="1">1. As the Content 8, is to the Content 1000, ſo is the Cube of the ſide 4. <hi>viz.</hi> the Cube 64. to the Cube 8000, whoſe Cube-Root is=20.</p>
+                  <pb n="35" facs="tcp:32974:21"/>
+                  <p n="2">2. As the ſaid 8 to the ſaid 1000. ſo is the Cube of the ſide 2. <hi>viz.</hi> the Cube 8. to the Cube 1000. whoſe Cube Root is=10.</p>
+                  <p n="3">3. As the ſaid 8 to the ſaid 1000. ſo is the Cube of the ſide 1. <hi>viz.</hi> Cube 1. to the Cube 125. whoſe Cube Root is=5.</p>
+                  <p>So then of the Ciſtern demand<g ref="char:EOLhyphen"/>ed to be framed, the
+<table>
+                        <row>
+                           <cell>Length</cell>
+                           <cell>20</cell>
+                        </row>
+                        <row>
+                           <cell>Breadth</cell>
+                           <cell>10</cell>
+                        </row>
+                        <row>
+                           <cell>Height</cell>
+                           <cell>5</cell>
+                        </row>
+                     </table>
+                  </p>
+                  <p>For 20×10×5=1000; and
+<list>
+                        <item>1. As 1 to 2, ſo 5 to 10.</item>
+                        <item>2. As 2 to 4, ſo 10 to 20.</item>
+                        <item>3. As 1 to 4, ſo 5 to 20.</item>
+                     </list>
+                  </p>
+                  <pb n="36" facs="tcp:32974:22"/>
+                  <p n="2">II. <hi>Example,</hi> Let a Ciſtern be demanded, containing 600 Cu<g ref="char:EOLhyphen"/>bick Feet, and the Ratio of the ſides, as 3, 4, 5.</p>
+                  <p>Firſt, I frame in my mind a Ciſtern of 3 4 5, 3×4×5=60. wherefore.</p>
+                  <p n="1">1. As to the Content 60. to the Content 600. ſo is the Cube of the ſide 3. <hi>viz.</hi> the Cube 27 to the Cube 270. whoſe Cube Root is=6. 463.</p>
+                  <p n="2">2. As the ſaid 60 to the ſaid 600. ſo is the Cube of the ſide 4. <hi>viz.</hi> the Cube 64, to the Cube 640, whoſe Cube Root is=8. 617.</p>
+                  <p n="3">3. As the ſaid 60 to the ſaid 600. ſo is the Cube of the ſide 5. <hi>viz.</hi> the Cube 125. to the
+<pb n="37" facs="tcp:32974:22"/>Cube 1250, whoſe Cube Root is=10. 77 2.</p>
+                  <p>So then
+<table>
+                        <row>
+                           <cell role="label"> </cell>
+                           <cell role="label">
+                              <hi>Content</hi>
+                           </cell>
+                           <cell role="label">
+                              <hi>Length</hi>
+                           </cell>
+                           <cell role="label">
+                              <hi>Breadth</hi>
+                           </cell>
+                           <cell role="label">
+                              <hi>height</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Of the gi<g ref="char:EOLhyphen"/>ven Ciſtern</hi>
+                           </cell>
+                           <cell>60</cell>
+                           <cell>5</cell>
+                           <cell>4</cell>
+                           <cell>3.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Of the Ci<g ref="char:EOLhyphen"/>ſtern demanded</hi>
+                           </cell>
+                           <cell>600</cell>
+                           <cell>10.772</cell>
+                           <cell>8.6176</cell>
+                           <cell>6<g ref="char:decimalL">⌊</g>4632</cell>
+                        </row>
+                     </table>
+                  </p>
+                  <p>For 6.4632 into 8.6176 into 10.7720 is=599. 978.</p>
+                  <p>And
+<list>
+                        <item>1. As 3 to 4, ſo is 6.4632 to 8.6176</item>
+                        <item>2. As 4 to 5, ſo is 8.6176. to 10.7720</item>
+                        <item>3. As 3 to 5, ſo is 6.4362 to 10.7720.</item>
+                     </list>
+                  </p>
+                  <p>This <hi>Problem</hi> being clearly An<g ref="char:EOLhyphen"/>ſwered by the two foregoing Ex<g ref="char:EOLhyphen"/>amples;
+<pb n="38" facs="tcp:32974:23"/>in the firſt of which the Length, Breadth and Depth of the Ciſtern, that is required to be deſigned, are 20, 10 and 5; and its Content 1000 Cubick Feet; and in the ſecond the Length, Breadth and Depth of the Ci<g ref="char:EOLhyphen"/>ſtern that is required to be deſign<g ref="char:EOLhyphen"/>ed are 10,7720, 8.6176 and 6.4632. and its Content 600 Cubcik Feet. The next thing to be done is to Convert their Con<g ref="char:EOLhyphen"/>tents into Gallons, Barrels, <hi>&amp;c.</hi> which is to be done with much eaſe by this Fourth Table: For by that Table 1000 Cubick Feet (which is the Content of the firſt Ciſtern required to be de<g ref="char:EOLhyphen"/>ſigned) contain 170 <hi>Bar.</hi>—7 <hi>Gall.</hi>—186. <hi>Cub. Inch.</hi>
+                  </p>
+                  <pb n="39" facs="tcp:32974:23"/>
+                  <p>And in the ſecond Example the Content of the Ciſtern re<g ref="char:EOLhyphen"/>quired to be deſigned, being 600 Cubick Feet; I find by the ſaid Table, that 600 Cubick Feet contain 102 <hi>Bar.</hi>—4 <hi>Gall.</hi>—168 <hi>Cub. Inch.</hi>
+                  </p>
+               </div>
+               <div n="3" type="application">
+                  <head>The Third <g ref="char:V">Ʋ</g>ſe.</head>
+                  <p>The third Uſe of this Table relates to Cylindrical Elliptical Veſſels; for the better Expla<g ref="char:EOLhyphen"/>nation of which there are again ſeveral <hi>Precognita</hi> to be pre<g ref="char:EOLhyphen"/>miſed.</p>
+                  <pb n="40" facs="tcp:32974:24"/>
+                  <p>
+                     <table>
+                        <row>
+                           <cell role="label">I. <hi>Diam of any Circle</hi>
+                           </cell>
+                           <cell role="label">
+                              <hi>Peripherie</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>1</cell>
+                           <cell>3. 14159265</cell>
+                        </row>
+                        <row>
+                           <cell>2</cell>
+                           <cell>6. 28318530</cell>
+                        </row>
+                        <row>
+                           <cell>3</cell>
+                           <cell>9. 42477795</cell>
+                        </row>
+                        <row>
+                           <cell>4</cell>
+                           <cell>12. 56637060</cell>
+                        </row>
+                        <row>
+                           <cell>5</cell>
+                           <cell>15. 70796325</cell>
+                        </row>
+                        <row>
+                           <cell>6</cell>
+                           <cell>18. 84955590</cell>
+                        </row>
+                        <row>
+                           <cell>7</cell>
+                           <cell>21. 99118455</cell>
+                        </row>
+                        <row>
+                           <cell>8</cell>
+                           <cell>25. 13274120</cell>
+                        </row>
+                        <row>
+                           <cell>9.</cell>
+                           <cell>28. 27433385</cell>
+                        </row>
+                     </table>
+                     <pb n="41" facs="tcp:32974:24"/>
+                     <table>
+                        <row>
+                           <cell role="label">II. <hi>Diam of any Circle</hi>
+                           </cell>
+                           <cell role="label">
+                              <hi>Square Root of the Area</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>1</cell>
+                           <cell>0. 88622692</cell>
+                        </row>
+                        <row>
+                           <cell>2</cell>
+                           <cell>1. 77245385.</cell>
+                        </row>
+                        <row>
+                           <cell>3</cell>
+                           <cell>2. 65868077</cell>
+                        </row>
+                        <row>
+                           <cell>4</cell>
+                           <cell>3. 54490770</cell>
+                        </row>
+                        <row>
+                           <cell>5</cell>
+                           <cell>4. 43114362</cell>
+                        </row>
+                        <row>
+                           <cell>6</cell>
+                           <cell>5. 31736155</cell>
+                        </row>
+                        <row>
+                           <cell>7</cell>
+                           <cell>6. 20358847</cell>
+                        </row>
+                        <row>
+                           <cell>9</cell>
+                           <cell>7. 97604231</cell>
+                        </row>
+                     </table>
+                  </p>
+                  <p>If the Diam be (1) the Area is 0. 785398163.</p>
+                  <p n="4">4. Square any given Diame<g ref="char:EOLhyphen"/>ter, and then Multiply that Square by 0. 7853, <hi>&amp;c.</hi> and
+<pb n="42" facs="tcp:32974:25"/>the laſt Produce is the <hi>Area</hi> of the Circle.</p>
+                  <p n="5">5. The Length of an <hi>Ellip<g ref="char:EOLhyphen"/>ſis</hi> drawn into the Breadth, and that Product Multiplied by 0. 7853981, <hi>&amp;c.</hi> gives the <hi>A<g ref="char:EOLhyphen"/>rea</hi> of an <hi>Ellipſis.</hi>
+                  </p>
+                  <p n="6">6. Circles in proportion to one another, as the Squares of their Diameters.</p>
+               </div>
+               <div n="1" type="problem">
+                  <head>Firſt Problem.</head>
+                  <p>The Diameter of any Cilin<g ref="char:EOLhyphen"/>drical Veſſel being given, toge<g ref="char:EOLhyphen"/>ther with its Height, to find the true Content thereof in Gal<g ref="char:EOLhyphen"/>lons, Barrels, <hi>&amp;c.</hi>
+                  </p>
+                  <p>
+                     <hi>For Example,</hi> Suppoſe in a No<g ref="char:EOLhyphen"/>blemans or Gentlemans Garden
+<pb n="43" facs="tcp:32974:25"/>there be found a Baſon, whoſe Di<g ref="char:EOLhyphen"/>ameter is 45 Feet, and its Depth 4 Feet, and it be required to know the true Content thereof in Gallons, Barrels and Tuns.</p>
+                  <p>
+                     <hi>Anſwer.</hi> By the Fourth <hi>Prae<g ref="char:EOLhyphen"/>cognitum,</hi> I ſquare the given Di<g ref="char:EOLhyphen"/>ameter 45. and that Square I Multiply by the Fraction 0.7853, <hi>&amp;c.</hi> and the Product 1590.232 is the Area of the Circle, which Multiply by 4, the Height of the Cylindrical Veſſel, and the Product, <hi>viz.</hi> 6360.9— Cubick Feet, is the Content of the Ba<g ref="char:EOLhyphen"/>ſon.</p>
+                  <p>This being done, the next thing is to convert the ſaid Cu<g ref="char:EOLhyphen"/>bick Feet into Gallons, Barrels and Tuns; which, by the help of the Fourth Table, is eaſily done.</p>
+                  <pb n="44" facs="tcp:32974:26"/>
+                  <p>For by the ſaid Table, 1000 Cubick Feet is equal to 170 <hi>Barr.</hi> — 7 <hi>Gall.</hi> — 186, <hi>Cub. In.</hi> which being Multiplied by Six gives 1020, <hi>Barr.</hi> — 42 <hi>Gall.</hi> — 1116, <hi>Cub. In.</hi> which is being reduced to its right Denomi<g ref="char:EOLhyphen"/>nation, 1021 <hi>Barr.</hi> — 9 <hi>Gall.</hi> — 270 <hi>Cub. In.</hi> the Content of 6000 Cubick Inches.</p>
+                  <p>Again. 300 Cubick Feet is e<g ref="char:EOLhyphen"/>qual to 51 <hi>B.</hi> — 2 <hi>G.</hi> — 84. <hi>C. In.</hi> this be<g ref="char:EOLhyphen"/>ing added to the foregoing Sum, <hi>viz.</hi>
+                     <table>
+                        <row>
+                           <cell role="label">
+                              <hi>B.</hi>
+                           </cell>
+                           <cell role="label">
+                              <hi>G.</hi>
+                           </cell>
+                           <cell role="label">
+                              <hi>C. In.</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>1021</cell>
+                           <cell>9</cell>
+                           <cell>270</cell>
+                        </row>
+                        <row>
+                           <cell>51</cell>
+                           <cell>2</cell>
+                           <cell>84</cell>
+                        </row>
+                        <row>
+                           <cell>makes 1072</cell>
+                           <cell>11</cell>
+                           <cell>354</cell>
+                        </row>
+                     </table> the Content of 6300 Cubick Feet.</p>
+                  <pb n="45" facs="tcp:32974:26"/>
+                  <p>
+                     <hi>Lastly,</hi> 60 Cubick Feet contain 10 <hi>B.</hi> — 7 <hi>G.</hi> — 186 <hi>C. In.</hi> which be<g ref="char:EOLhyphen"/>ing added to the Content of 6300 Cubick Feet, <hi>viz.</hi>
+                     <table>
+                        <row>
+                           <cell role="label">
+                              <hi>B.</hi>
+                           </cell>
+                           <cell role="label">
+                              <hi>G.</hi>
+                           </cell>
+                           <cell role="label">
+                              <hi>C. In.</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>1072</cell>
+                           <cell>11</cell>
+                           <cell>354</cell>
+                        </row>
+                        <row>
+                           <cell>10</cell>
+                           <cell>7</cell>
+                           <cell>186</cell>
+                        </row>
+                        <row>
+                           <cell>makes 1082</cell>
+                           <cell>18</cell>
+                           <cell>540</cell>
+                        </row>
+                     </table> which Reduced to its right Deno<g ref="char:EOLhyphen"/>mination is 1082 <hi>B.</hi> — 19 <hi>G.</hi> — 258 <hi>C. In.</hi> the Content of the Baſon which was required.</p>
+               </div>
+               <div n="2" type="problem">
+                  <head>Second Problem.</head>
+                  <p>The long and ſhort Diameters of an Elliptical Veſſel being gi<g ref="char:EOLhyphen"/>ven, together with the Height,
+<pb n="46" facs="tcp:32974:27"/>to find the true Content thereof in Gallons, Barrels, &amp;c.</p>
+                  <p>Suppoſe in a Gentlemans or No<g ref="char:EOLhyphen"/>blemans Garden there be an El<g ref="char:EOLhyphen"/>liptical Baſon, whoſe Length is 45 Feet, whoſe Breadth is 35 Feet, and whoſe Depth is 4 Feet; and it be required to know the true Content thereof in Gallons, Bar<g ref="char:EOLhyphen"/>rels and Tuns.</p>
+                  <p>
+                     <hi>Anſwer.</hi> By the Fifth <hi>Precog<g ref="char:EOLhyphen"/>nitum,</hi> I Multiply 45 the Length into 35, the Breadth of the Ba<g ref="char:EOLhyphen"/>ſon; the Product which is 1575, I Multiply by the Fraction 0.7853, and the Product of theſe two Numbers Multiplied, will be 1236. 847. which I then Multiply by 4 the Depth, and thence ariſes 4947.3... Cubick Feet which is the Content of the Baſon. Now I, as before, Convert the ſaid
+<pb n="47" facs="tcp:32974:27"/>Cubick Feet into Gallons, Bar<g ref="char:EOLhyphen"/>rels and Tuns, by the help of the Fourth Table. Thus, 1000 Cubick Feet is there equal to 170 <hi>Barr.</hi> — 7 <hi>Gall.</hi> — 186 <hi>Cub. In.</hi> which being Multiplied by 4 gives 680 <hi>Barr.</hi> — 28 <hi>Gall.</hi> — 744 <hi>Cub. In.</hi> which (being reduced to its right Denomination) is 680 <hi>Barr.</hi> — 30 <hi>Gall.</hi> — 180 <hi>Cub. In. Again,</hi> 900 Cubick Feet is equal to 153 <hi>Barr.</hi> — 6 <hi>Gall.</hi> — 252 <hi>Cub. In.</hi> this being added to the forego<g ref="char:EOLhyphen"/>ing Sum, <hi>viz.</hi>
+                     <table>
+                        <row>
+                           <cell role="label">
+                              <hi>Barr.</hi>
+                           </cell>
+                           <cell role="label">
+                              <hi>Gall.</hi>
+                           </cell>
+                           <cell role="label">
+                              <hi>Cub. In.</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>680</cell>
+                           <cell>30</cell>
+                           <cell>180</cell>
+                        </row>
+                        <row>
+                           <cell>153</cell>
+                           <cell>6</cell>
+                           <cell>252</cell>
+                        </row>
+                        <row>
+                           <cell>makes 833</cell>
+                           <cell>36</cell>
+                           <cell>432</cell>
+                        </row>
+                     </table>
+                     <pb n="48" facs="tcp:32974:28"/>which is (being reduced) 833 <hi>Barr.</hi> — 37 <hi>Gall.</hi> — 150 <hi>Cub. In.</hi>
+                  </p>
+                  <p>
+                     <hi>Laſtly,</hi> 40 Cubick Feet contain 6 <hi>Barr.</hi> — 29 <hi>Gall.</hi> — 30 <hi>Cub. In.</hi>
+                  </p>
+                  <p>And 7 Cubick Feet contain 1 <hi>Barr.</hi> — 6 <hi>Gall.</hi> — 252 <hi>Cub. In.</hi> therefore 47 Cubick Feet contain 7 <hi>Barr.</hi> — 35 <hi>Gall.</hi> — 282 <hi>Cub. In.</hi> which being added to the Con<g ref="char:EOLhyphen"/>tent of 4900 Cubick Feet, <hi>viz.</hi>
+                     <table>
+                        <row>
+                           <cell role="label">
+                              <hi>Barr.</hi>
+                           </cell>
+                           <cell role="label">
+                              <hi>Gall.</hi>
+                           </cell>
+                           <cell role="label">
+                              <hi>Cub. In.</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>833</cell>
+                           <cell>37</cell>
+                           <cell>150</cell>
+                        </row>
+                        <row>
+                           <cell>7</cell>
+                           <cell>35</cell>
+                           <cell>282</cell>
+                        </row>
+                        <row>
+                           <cell>makes 840</cell>
+                           <cell>73</cell>
+                           <cell>150</cell>
+                        </row>
+                     </table> which (being reduced to its right Denomination) is 842 <hi>Barr.</hi> — 1 <hi>Gall.</hi> — 150 <hi>Cub. In.</hi> the Content of the Baſon, in Bar<g ref="char:EOLhyphen"/>rels,
+<pb n="49" facs="tcp:32974:28"/>Gallons and Cubick Inches, which was required.</p>
+                  <p>But forasmuch as in the Practi<g ref="char:EOLhyphen"/>cal part of <hi>Hydroſtaticks,</hi> and the deſigning of Engines to raiſe Water to great Heights, by the means of Forcers; it will be often requiſite to know the Con<g ref="char:EOLhyphen"/>tents and the Weight of leſs Cy<g ref="char:EOLhyphen"/>linders, that is to ſay, whoſe Di<g ref="char:EOLhyphen"/>ameters are 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 Inches, and the Length Indefinite (ſuppoſe from 1 to 100, or more). And becauſe ſuch Calculations are ve<g ref="char:EOLhyphen"/>ry tedious, I have here inſerted the following Table.</p>
+               </div>
+            </div>
+         </div>
+         <div n="5" type="table">
+            <pb n="50" facs="tcp:32974:29" rendition="simple:additions"/>
+            <head>THE FIFTH TABLE <hi>Giving the true Content in Cu<g ref="char:EOLhyphen"/>bick Inches of Cylinders of different Diameters, from</hi> 1 <hi>to</hi> 12 <hi>Incluſive, and each of theſe Cylinders of a Foot or Twelve Inches in Height.</hi>
+            </head>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label">
+                        <hi>Diam of Baſes</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Solid Content in Cubick Inches.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>1</cell>
+                     <cell>9<g ref="char:decimalL">⌊</g>424777961</cell>
+                  </row>
+                  <row>
+                     <cell>2</cell>
+                     <cell>37<g ref="char:decimalL">⌊</g>699111843</cell>
+                  </row>
+                  <row>
+                     <cell>3</cell>
+                     <cell>84<g ref="char:decimalL">⌊</g>823001647</cell>
+                  </row>
+                  <pb n="51" facs="tcp:32974:29" rendition="simple:additions"/>
+                  <row>
+                     <cell>4</cell>
+                     <cell>150<g ref="char:decimalL">⌊</g>79644736</cell>
+                  </row>
+                  <row>
+                     <cell>5</cell>
+                     <cell>235<g ref="char:decimalL">⌊</g>61944900</cell>
+                  </row>
+                  <row>
+                     <cell>6</cell>
+                     <cell>339<g ref="char:decimalL">⌊</g>29200656</cell>
+                  </row>
+                  <row>
+                     <cell>7</cell>
+                     <cell>461<g ref="char:decimalL">⌊</g>81412004</cell>
+                  </row>
+                  <row>
+                     <cell>8</cell>
+                     <cell>603<g ref="char:decimalL">⌊</g>18578044</cell>
+                  </row>
+                  <row>
+                     <cell>9</cell>
+                     <cell>763<g ref="char:decimalL">⌊</g>40701476</cell>
+                  </row>
+                  <row>
+                     <cell>10</cell>
+                     <cell>942<g ref="char:decimalL">⌊</g>47779600</cell>
+                  </row>
+                  <row>
+                     <cell>11</cell>
+                     <cell>1140<g ref="char:decimalL">⌊</g>39813316</cell>
+                  </row>
+                  <row>
+                     <cell>12</cell>
+                     <cell>1357<g ref="char:decimalL">⌊</g>16802624</cell>
+                  </row>
+               </table>
+            </p>
+            <p>As for the weight of Water, it is not to be determined abſo<g ref="char:EOLhyphen"/>lutely, becauſe almoſt all Wells, Springs and Rivers, are of a dif<g ref="char:EOLhyphen"/>ferent weight, and therefore my advice is to all Engineers and Practitioners, to find out the ex<g ref="char:EOLhyphen"/>act
+<pb n="52" facs="tcp:32974:30"/>weight of a Cubick Foot of that particular Water, which they have occaſion to make uſe of; by which means they will eaſily diſcover the weight of a<g ref="char:EOLhyphen"/>ny Cylinder of Water with theſe following Cautions.</p>
+            <p>
+               <hi>Firſt Caution.</hi> When an Engi<g ref="char:EOLhyphen"/>neer deſires to force up Water 50, or 100 Feet in Perpendicu<g ref="char:EOLhyphen"/>lar Height, and deſigns to do this by a Forcer of 4, 5, or 6 Inches Diameter; but intends the Water ſhall be carried up the ſaid 50, or 100 Feet in Perpendicu<g ref="char:EOLhyphen"/>lar Height, through a Pipe of of 1 Inch and ½, 1 Inch and ¾, or 2 Inches and ¼ Diameter, the Wa<g ref="char:EOLhyphen"/>ter ſtanding in any ſuch perpen<g ref="char:EOLhyphen"/>dicular Pipe, is equivalent in weight to a Pipe of the ſame Perpendicular Height, whoſe Di<g ref="char:EOLhyphen"/>ameter is 4, 5, or 6 Inches,
+<pb n="53" facs="tcp:32974:30"/>
+               <hi>viz.</hi> the Diameter of the ſaid For<g ref="char:EOLhyphen"/>cer; and indeed the leſs one of thoſe Pipes is, the greater is the weight againſt the Forcer to raiſe up the Water in the ſame Mo<g ref="char:EOLhyphen"/>ment or Interval of Time; that is to ſay, there is required more Weight to be laid upon that Forcer, to raiſe the Water through a Pipe of one Inch Di<g ref="char:EOLhyphen"/>ameter, than through a Pipe of four Inches Diameter. And what<g ref="char:EOLhyphen"/>ſoever is here ſaid of the weight of Water againſt a Foreer, in a Forcing Engine, is alſo true in Suction, by a Drawing Pump.</p>
+            <p>
+               <hi>For Example.</hi> A Pump whoſe Barrel or Pipe of Suction is four Inches Diameter; and the Pipe which reaches from the Barrel to the Water, through which it is drawn up but two Inches Dia<g ref="char:EOLhyphen"/>meter, requires more force or
+<pb n="54" facs="tcp:32974:31"/>ſtrength, than if it were drawn up through a Pipe of four In<g ref="char:EOLhyphen"/>ches Diameter. For want of the Knowledge of this, many igno<g ref="char:EOLhyphen"/>norant Plummers and Pump-ma<g ref="char:EOLhyphen"/>kers, covet to draw their Water through leſs Pipes, which makes the Work more difficult: And though this ſeems to be a Para<g ref="char:EOLhyphen"/>dox, yet 'tis a real truth; and the want of the right under<g ref="char:EOLhyphen"/>ſtanding thereof has occaſioned very many great Miſtakes by ig<g ref="char:EOLhyphen"/>norant Practitioners.</p>
+            <p>
+               <hi>Second Caution.</hi> The true weight of Water in all Pipes, is to be determined by the Perpendi<g ref="char:EOLhyphen"/>cular Height of thoſe Pipes.</p>
+            <p>
+               <hi>For Example.</hi> The weight of Water in Perpendicular Pipes of three Feet (in Height) and three Inches Diameter, is equal to the
+<pb n="55" facs="tcp:32974:31"/>weight of Water contained in a Pipe of any Length whate<g ref="char:EOLhyphen"/>ver (be it a Rod, a Furlong, or more) which riſes not more than three Feet above the Horri<g ref="char:EOLhyphen"/>zontal Line; which ſeems like<g ref="char:EOLhyphen"/>wiſe to be a Myſtery, but is a real truth, as it lyes in the Pipes; although if it be ta<g ref="char:EOLhyphen"/>ken out and laid in a Ballance, it will weigh one Hundred times as much or more, than the Wa<g ref="char:EOLhyphen"/>ter in the ſaid Perpendicular Pipe.</p>
+            <p>I muſt confeſs, that the Au<g ref="char:EOLhyphen"/>thor had very ſmall Encourage<g ref="char:EOLhyphen"/>ment to help our Engineers in things of this Nature, many of them having dealt very diſinge<g ref="char:EOLhyphen"/>nuouſly with him; when he had, by near Forty Years Stu<g ref="char:EOLhyphen"/>dy and Practiſe, and the Ex<g ref="char:EOLhyphen"/>pence of many a thouſand Pounds,
+<pb n="56" facs="tcp:32974:32"/>produced new and better ways of raiſing Water, than for ought I know, were ever known to former Ages, <hi>viz.</hi> by the means of</p>
+            <p n="1">1. A <hi>Forcer</hi> moving up and down in a <hi>Chamber</hi> of Water, through a ſmall <hi>Collar</hi> or <hi>Neck</hi> of <hi>Leather</hi> faſtned in a <hi>Groove.</hi>
+            </p>
+            <p n="2">2. The <hi>Circular Motion</hi> of a <hi>Crank,</hi> reduced to a <hi>Perpen<g ref="char:EOLhyphen"/>dicular.</hi>
+            </p>
+            <p n="3">3. The <hi>
+                  <g ref="char:V">Ʋ</g>nequal Motion</hi> of a <hi>Crank</hi> exchanged for an <hi>Elliptical Equal Motion.</hi>
+            </p>
+            <p>Divers Perſons have borrow<g ref="char:EOLhyphen"/>ed, ſome one part, ſome ano<g ref="char:EOLhyphen"/>ther, and making ſome ſmall Alterations, call it their own Invention. This I am willing
+<pb n="57" facs="tcp:32974:32"/>to let paſs; and after all, to give them the following Items, to prevent their attempting Per<g ref="char:EOLhyphen"/>petual Motions, which moſt of them are apt to do by their Ig<g ref="char:EOLhyphen"/>norance in Hydroſtaticks; and not a few Gentlemen, in all A<g ref="char:EOLhyphen"/>ges, have, by ſuch vain ima<g ref="char:EOLhyphen"/>ginations of deceiving Nature, deceived themſelves, and Rui<g ref="char:EOLhyphen"/>ned their Families.</p>
+            <p n="1">1. As in Staticks a Pound weight ſuſpended Perpendicular<g ref="char:EOLhyphen"/>ly, has a greater force than a Pound weight ſuſpended on a ri<g ref="char:EOLhyphen"/>ſing Line in Proportion, as the Hypotenuſe of a Rectangled Tri<g ref="char:EOLhyphen"/>angle, is longer than its Per<g ref="char:EOLhyphen"/>pendicular; ſo in Hydroſtaticks, if the two ends of a Syphon turned angular-wiſe, and a part of it filled with Water, or a<g ref="char:EOLhyphen"/>ny other Liquor, be immer<g ref="char:EOLhyphen"/>ged
+<pb n="58" facs="tcp:32974:33"/>in a Veſſel of the ſame Li<g ref="char:EOLhyphen"/>quor; that part which hangs Perpendicularly, ſhall be heavi<g ref="char:EOLhyphen"/>er than that which declines in proportion, as one ſide of that Syphon is longer than the other oppoſite ſide.</p>
+            <figure>
+               <head>1. Fig:</head>
+               <figDesc>diagrams of an isosceles triangle with weights and a triangular siphon illustrating static and hydrostatic principles</figDesc>
+            </figure>
+            <p>
+               <hi>For Example.</hi> Let the two Triangles in <hi>Fig.</hi> 1. be Iſoſceles, and the two ſides of the Tri<g ref="char:EOLhyphen"/>angle ABC (<hi>viz.</hi> AC and AB) equal. And ſo likewiſe the two ſides of the Triangle DEF
+<pb n="59" facs="tcp:32974:33"/>(<hi>viz.</hi> DE and EF) equal. In this caſe a Pound weight (P) and another (Q) are equally Ponderous; and ſo is the Wa<g ref="char:EOLhyphen"/>ter contained in the Syphon (FN) from the Superfices (GR) to (N) of an equal weight with the Water in the Syphon (DM) between the Super<g ref="char:EOLhyphen"/>fices of the Water (GR) and (M)</p>
+            <figure>
+               <head>2. Fig:</head>
+               <figDesc>diagram of 30-60-90 triangle with weights illustrating static principles</figDesc>
+            </figure>
+            <p>But now in Fig. 2. becauſe the ſide (AB) of the Trian<g ref="char:EOLhyphen"/>gle (ABC) has double the length of (BC) therefore a
+<pb n="60" facs="tcp:32974:34"/>Pound weight (D) ſuſpended Perpendicularly from (B) is E<g ref="char:EOLhyphen"/>quiponderant to two Pounds (E and F) on the ſide (AB) according to the Doctrine of Sta<g ref="char:EOLhyphen"/>tinks. And therefore an Horſe drawing a weight of four Hun<g ref="char:EOLhyphen"/>dred Pound, upon an Aſcent of thirty Deg. heaves at two Hundred Pound, which is one half, and the Ground bears the reſt.</p>
+            <pb n="61" facs="tcp:32974:34"/>
+            <figure>
+               <head>3. Fig.</head>
+               <figDesc>diagram of 30-60-90 triangular siphon illustrating hydrostatic principles</figDesc>
+            </figure>
+            <p>And ſo in Fig. 3. becauſe the ſide (DE) of the Triangle (DEF) has twice the Length of (EF) therefore the Water (HF) which hangs Perpendi<g ref="char:EOLhyphen"/>cularly, is equal in weight to <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Water (DG) which has twice its Quantity and Length,
+<pb n="62" facs="tcp:32974:35"/>according to the Doctrine of Hy<g ref="char:EOLhyphen"/>droſtaticks.</p>
+            <p n="2">2. As in Staticks, a Pound weight on the one ſide of the Perpendicular Line makes an E<g ref="char:EOLhyphen"/>quilibrium, with another Pound Equidiſtant from the Perpendi<g ref="char:EOLhyphen"/>cular Line on the other ſide: ſo in Hydroſtaticks, one Tube of Water ſtanding at any Height above the Horizontal Line, E<g ref="char:EOLhyphen"/>quiponderates any other Tube o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Water that ſtands at the ſame Height, and is of the ſame Di<g ref="char:EOLhyphen"/>ameter.</p>
+            <p n="3">3. As in Staticks if a leſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> weight raiſe a greater, it muſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> be proportionably at a greate<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> diſtance from the Perpendicu<g ref="char:EOLhyphen"/>lar Line, and have a greater Mo<g ref="char:EOLhyphen"/>tion. So in Hydroſtaticks, i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a leſs Tube of Water raiſe a
+<pb n="63" facs="tcp:32974:35"/>greater Tube, it muſt be pro<g ref="char:EOLhyphen"/>portionably of a greater Length above the Horizontal Line than the other; and conſequently the Deſcent of the Water in a leſſer Tube, muſt have a greater Length than the Aſcent of the Water in a greater Tube in proportion, as the Square of the Diameter of the greater Tube, exceeds the Square of the Diameter of the leſſer Tube.</p>
+            <p>And this length of Aſcent and Deſcent of the leſſer Tube of Water above the Horizontal Line, compared with the Aſcent and Deſcent of the greater Tube, together with the proportion that the Square of the Diameter of the leſſer Tube, bears to the Square of the Diameter of the
+<pb n="64" facs="tcp:32974:36"/>greater Tube; anſwers exactly to the force and Motion of a Lea<g ref="char:EOLhyphen"/>ver, or rather of a leſſer weight placed on a Ballance at a grea<g ref="char:EOLhyphen"/>ter diſtance from the Perpendi<g ref="char:EOLhyphen"/>cular to Counterpoiſe or raiſe a greater weight placed on the o<g ref="char:EOLhyphen"/>ther ſide at a leſſer diſtance according to the Doctrine of Sta<g ref="char:EOLhyphen"/>ticks.</p>
+            <figure>
+               <head>Fig. 1.</head>
+               <figDesc>diagrams of unequal weights in balance and of U-shaped tubing with perpendicular angles, illustrating static and hydrostatic principles</figDesc>
+            </figure>
+            <p>As in Fig. 1. A pound weight (A) is equiponderant to ano<g ref="char:EOLhyphen"/>ther (B) becauſe equidiſtant from the Perpendicular (CD) So that part of the Tube (EL)
+<pb n="65" facs="tcp:32974:36"/>whoſe Height above the Horizon<g ref="char:EOLhyphen"/>al Line (FE) is of an equal weight with that part of the Tube (GM) which is of an equal leight above (FH) <hi>viz.</hi> (GH.)</p>
+            <figure>
+               <head>Fig. 2.</head>
+               <figDesc>diagrams of unequal weights and of a U-shaped tube with perpendicular angles with unequal diameters in its two vertical sections, illustrating static and hydrostatic principles</figDesc>
+            </figure>
+            <pb n="66" facs="tcp:32974:37"/>
+            <p>In Fig. 2. as a pound weight A equiponderating three Pound (B, C, D,) muſt have thrice the Diſtance from the Perpendicu<g ref="char:EOLhyphen"/>cular (EF) and for every Foot or Inch (B, C, D,) aſcends or deſcends A muſt aſcend or deſcend three Feet, or 3 Inches, <hi>viz.</hi> from (G) to (H.)</p>
+            <p>So the Tube (RM) being leſs than the Tube (NQ) in Proportion as (1) is leſs than three. The Water muſt deſcend from (G) to (H) to raiſe the Wa<g ref="char:EOLhyphen"/>ter in the Tube (NQ) from (O) to (P) which is ½ of the Height.</p>
+            <p>And which is admirable, if the Liquor from (O) to (N) be Wine by turning the Cock (S) gently the Water ſhall carry up the Wine in an entire Body.</p>
+            <pb n="67" facs="tcp:32974:37"/>
+            <p>And this is a pretty Experi<g ref="char:EOLhyphen"/>ment in Hydroſtaticks; and theſe Cautionary Reflections will, I preſume, if throughly under<g ref="char:EOLhyphen"/>ſtood, diſcourage young Practi<g ref="char:EOLhyphen"/>tioners from ever attempting to deceive the Order of Nature, and confound the Equilibrium of Weights (whether liquid or dry) by imaginary Perpetual Motions.</p>
+            <pb n="66" facs="tcp:32974:38"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="67" facs="tcp:32974:38"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="table">
+            <pb n="68" facs="tcp:32974:39"/>
+            <head>THE LAST TABLE. <hi>A moſt Excellent</hi> TABLE <hi>of</hi> POLIGONES <hi>from</hi> 3 <hi>to</hi> 80, <hi>Calculated to a Radus of</hi> 10,000,000, <hi>by that incomparable Maſter of Num<g ref="char:EOLhyphen"/>bers,</hi> LUDOLPHUS A CULEN, <hi>Publiſhed</hi> Anno Dom. 1619.</head>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label">
+                        <hi>Pol.</hi>
+                     </cell>
+                     <cell role="label"> </cell>
+                  </row>
+                  <row>
+                     <cell>3</cell>
+                     <cell>17,320,508</cell>
+                  </row>
+                  <row>
+                     <cell>4</cell>
+                     <cell>14,242,135</cell>
+                  </row>
+                  <row>
+                     <cell>5</cell>
+                     <cell>11,755,705</cell>
+                  </row>
+                  <row>
+                     <cell>6</cell>
+                     <cell>10,000,000</cell>
+                  </row>
+                  <row>
+                     <cell>7</cell>
+                     <cell>8,677,674</cell>
+                  </row>
+                  <row>
+                     <cell>8</cell>
+                     <cell>7,653,668</cell>
+                  </row>
+                  <row>
+                     <cell>9</cell>
+                     <cell>6,840,402</cell>
+                  </row>
+                  <row>
+                     <cell>10</cell>
+                     <cell>6,180,339</cell>
+                  </row>
+                  <pb n="69" facs="tcp:32974:39"/>
+                  <row>
+                     <cell>11</cell>
+                     <cell>5,634,651</cell>
+                  </row>
+                  <row>
+                     <cell>12</cell>
+                     <cell>5,176,380</cell>
+                  </row>
+                  <row>
+                     <cell>13</cell>
+                     <cell>4,786,313</cell>
+                  </row>
+                  <row>
+                     <cell>14</cell>
+                     <cell>4,450,418</cell>
+                  </row>
+                  <row>
+                     <cell>15</cell>
+                     <cell>4,158,233</cell>
+                  </row>
+                  <row>
+                     <cell>16</cell>
+                     <cell>3,901,806</cell>
+                  </row>
+                  <row>
+                     <cell>17</cell>
+                     <cell>3,674,990</cell>
+                  </row>
+                  <row>
+                     <cell>18</cell>
+                     <cell>3,472,993</cell>
+                  </row>
+                  <row>
+                     <cell>19</cell>
+                     <cell>3,291,891</cell>
+                  </row>
+                  <row>
+                     <cell>20</cell>
+                     <cell>3,128,689</cell>
+                  </row>
+                  <row>
+                     <cell>21</cell>
+                     <cell>2,980,845</cell>
+                  </row>
+                  <row>
+                     <cell>22</cell>
+                     <cell>2,846,296</cell>
+                  </row>
+                  <row>
+                     <cell>23</cell>
+                     <cell>2,723,332</cell>
+                  </row>
+                  <row>
+                     <cell>24</cell>
+                     <cell>2,610,523</cell>
+                  </row>
+                  <row>
+                     <cell>25</cell>
+                     <cell>2,506,660</cell>
+                  </row>
+                  <row>
+                     <cell>26</cell>
+                     <cell>2,410,733</cell>
+                  </row>
+                  <row>
+                     <cell>27</cell>
+                     <cell>2,321,858</cell>
+                  </row>
+                  <row>
+                     <cell>28</cell>
+                     <cell>2,239,289</cell>
+                  </row>
+                  <row>
+                     <cell>29</cell>
+                     <cell>2,162,380</cell>
+                  </row>
+                  <row>
+                     <cell>30</cell>
+                     <cell>2,090,569</cell>
+                  </row>
+                  <row>
+                     <cell>31</cell>
+                     <cell>2,023,366</cell>
+                  </row>
+                  <row>
+                     <cell>32</cell>
+                     <cell>1,960,342</cell>
+                  </row>
+                  <row>
+                     <cell>33</cell>
+                     <cell>1,901,120</cell>
+                  </row>
+                  <row>
+                     <cell>34</cell>
+                     <cell>1,845,362</cell>
+                  </row>
+                  <row>
+                     <cell>35</cell>
+                     <cell>1,792,786</cell>
+                  </row>
+                  <row>
+                     <cell>36</cell>
+                     <cell>1,743,114</cell>
+                  </row>
+                  <row>
+                     <cell>37</cell>
+                     <cell>1,696,118</cell>
+                  </row>
+                  <row>
+                     <cell>38</cell>
+                     <cell>1,651,586</cell>
+                  </row>
+                  <row>
+                     <cell>39</cell>
+                     <cell>1,609,331</cell>
+                  </row>
+                  <row>
+                     <cell>40</cell>
+                     <cell>1,561,181</cell>
+                  </row>
+                  <row>
+                     <cell>41</cell>
+                     <cell>1,530,985</cell>
+                  </row>
+                  <row>
+                     <cell>42</cell>
+                     <cell>1,494,601</cell>
+                  </row>
+                  <row>
+                     <cell>43</cell>
+                     <cell>1,459,906</cell>
+                  </row>
+                  <row>
+                     <cell>44</cell>
+                     <cell>1,426,783</cell>
+                  </row>
+                  <row>
+                     <cell>45</cell>
+                     <cell>1,395,129</cell>
+                  </row>
+                  <row>
+                     <cell>46</cell>
+                     <cell>1,364,848</cell>
+                  </row>
+                  <row>
+                     <cell>47</cell>
+                     <cell>1,335,852</cell>
+                  </row>
+                  <row>
+                     <cell>48</cell>
+                     <cell>1,308,062</cell>
+                  </row>
+                  <row>
+                     <cell>49</cell>
+                     <cell>1,281,404</cell>
+                  </row>
+                  <row>
+                     <cell>50</cell>
+                     <cell>1,255,810</cell>
+                  </row>
+                  <pb n="70" facs="tcp:32974:40"/>
+                  <row>
+                     <cell>51</cell>
+                     <cell>1,231,218</cell>
+                  </row>
+                  <row>
+                     <cell>52</cell>
+                     <cell>1,207,569</cell>
+                  </row>
+                  <row>
+                     <cell>53</cell>
+                     <cell>1,184,812</cell>
+                  </row>
+                  <row>
+                     <cell>54</cell>
+                     <cell>1,162,896</cell>
+                  </row>
+                  <row>
+                     <cell>55</cell>
+                     <cell>1,141,776</cell>
+                  </row>
+                  <row>
+                     <cell>56</cell>
+                     <cell>1,121,408</cell>
+                  </row>
+                  <row>
+                     <cell>57</cell>
+                     <cell>1,101,755</cell>
+                  </row>
+                  <row>
+                     <cell>58</cell>
+                     <cell>1,082,778</cell>
+                  </row>
+                  <row>
+                     <cell>59</cell>
+                     <cell>1,074,453</cell>
+                  </row>
+                  <row>
+                     <cell>60</cell>
+                     <cell>1,046,719</cell>
+                  </row>
+                  <row>
+                     <cell>61</cell>
+                     <cell>1,029,575</cell>
+                  </row>
+                  <row>
+                     <cell>62</cell>
+                     <cell>1,012,983</cell>
+                  </row>
+                  <row>
+                     <cell>63</cell>
+                     <cell>0,996,912</cell>
+                  </row>
+                  <row>
+                     <cell>64</cell>
+                     <cell>0,981,353</cell>
+                  </row>
+                  <row>
+                     <cell>65</cell>
+                     <cell>0,966,275</cell>
+                  </row>
+                  <row>
+                     <cell>66</cell>
+                     <cell>0,951,638</cell>
+                  </row>
+                  <row>
+                     <cell>67</cell>
+                     <cell>0,937,445</cell>
+                  </row>
+                  <row>
+                     <cell>68</cell>
+                     <cell>0,923,669</cell>
+                  </row>
+                  <row>
+                     <cell>69</cell>
+                     <cell>0,910,291</cell>
+                  </row>
+                  <row>
+                     <cell>70</cell>
+                     <cell>0,897,296</cell>
+                  </row>
+                  <row>
+                     <cell>71</cell>
+                     <cell>0,884,666</cell>
+                  </row>
+                  <row>
+                     <cell>72</cell>
+                     <cell>0,872,387</cell>
+                  </row>
+                  <row>
+                     <cell>73</cell>
+                     <cell>0,860,444</cell>
+                  </row>
+                  <row>
+                     <cell>74</cell>
+                     <cell>0,848,824</cell>
+                  </row>
+                  <row>
+                     <cell>75</cell>
+                     <cell>0,837,513</cell>
+                  </row>
+                  <row>
+                     <cell>76</cell>
+                     <cell>0,826,499</cell>
+                  </row>
+                  <row>
+                     <cell>77</cell>
+                     <cell>0,815,771</cell>
+                  </row>
+                  <row>
+                     <cell>78</cell>
+                     <cell>0,805,318</cell>
+                  </row>
+                  <row>
+                     <cell>79</cell>
+                     <cell>0,795,130</cell>
+                  </row>
+                  <row>
+                     <cell>80</cell>
+                     <cell>0,785,196</cell>
+                  </row>
+               </table>
+            </p>
+            <div type="application">
+               <pb n="71" facs="tcp:32974:40"/>
+               <head>
+                  <hi>The <g ref="char:V">Ʋ</g>ſe of the</hi> TABLE <hi>of</hi> Polygones.</head>
+               <p>SUppoſe you had a Wheel, in which you intend there ſhould be Forty Coggs or Teeth, ſtanding at equal Diſtances, and the Diameter of this Wheel be Thirty Three. By this Table you muſt proceed thus; Firſt having taken half 33. which is 16.5 for the Radius of your Circle, look out the ſide of the Polygon of 40, ſtanding over againſt that Num<g ref="char:EOLhyphen"/>ber in the Table, which is 1,561.</p>
+               <p>
+                  <hi>Then ſay,</hi>
+               </p>
+               <p>As 10.000. 1.561. ſo 16. 5. 2.575. this taken off a Line of equal parts, by which you mea<g ref="char:EOLhyphen"/>ſure your <hi>Radius,</hi> will rightly
+<pb n="72" facs="tcp:32974:41"/>divide your Circle; and each of theſe Points of Diviſion ſo found, will be Centers for your Teeth or Coggs.</p>
+               <p>There are other Operations re<g ref="char:EOLhyphen"/>lating to the Diviſion of Wheels, or Circles, which may be nicely performed by the Aſſiſtance of this Table; but the Nature of it being underſtood, 'tis ea<g ref="char:EOLhyphen"/>ſie to apply it to thoſe other Uſes.</p>
+               <p>
+                  <hi>Note,</hi> To ſhorten the Work, I thought it convenient to take a leſſer Radius, as 10.000. and 1.561, which ſtands over a<g ref="char:EOLhyphen"/>gainſt 40 in the Table, will conſiſt of the firſt Figure an Integer, and the reſt Deci<g ref="char:EOLhyphen"/>mals; and as you take a grea<g ref="char:EOLhyphen"/>ter
+<pb n="73" facs="tcp:32974:41"/>or a leſs <hi>Radius,</hi> you muſt make uſe of more or fewer Figures, throughout the whole Table.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:32974:42"/>
+            <head>BOOKS <hi>Printed for</hi> John Law<g ref="char:EOLhyphen"/>rence, <hi>at the</hi> Angel <hi>in the</hi> Poul<g ref="char:EOLhyphen"/>trey.</head>
+            <p>MR. <hi>Pool</hi>'s Engliſh Annotations. <hi>Folio.</hi>
+            </p>
+            <p>The life of the Reverend Mr. <hi>Richard Bax<g ref="char:EOLhyphen"/>ter. Folio.</hi>
+            </p>
+            <p>Mr. <hi>Lorimer</hi>'s Apology for the Miniſters who ſubſcribed only unto the Stating of the Truths and Errors in Mr. <hi>William</hi>'s Book, in anſwer to Mr. <hi>Trail</hi>'s Letter to a Miniſter in the Coun<g ref="char:EOLhyphen"/>try. <hi>4to.</hi>
+            </p>
+            <p>An Anſwer of Mr. <hi>Giles Firmin</hi> to Mr. <hi>Grantham,</hi> about Infant Baptiſm. <hi>4o.</hi>
+            </p>
+            <p>Some Remarks upon two Anabaptiſt Pamphlets. By <hi>Giles Firmin. 4to.</hi>
+            </p>
+            <p>Mr. <hi>Firmin</hi>'s Review of <hi>Richard Davis</hi> his Vin<g ref="char:EOLhyphen"/>dication. <hi>4to.</hi>
+            </p>
+            <p>A Propoſal to perform Muſick, in perfect and Mathematical Proportions. By <hi>Tho. Salmon,</hi> Re<g ref="char:EOLhyphen"/>ctor of <hi>Mepſal</hi> in <hi>Bedfordſhire.</hi> Approved by both the Mathematick Profeſſors of the Univerſi<g ref="char:EOLhyphen"/>ty of <hi>Oxford;</hi> with large Remarks. By <hi>John Wal<g ref="char:EOLhyphen"/>lis,</hi> D. D. <hi>4to.</hi>
+            </p>
+            <p>Mr. <hi>Stephens</hi>'s Sermon before the Lord Mayor and Aldermen of <hi>London,</hi> at St. <hi>Mary le Bow, Jan.</hi> 30. 1693.</p>
+            <p>Mr. <hi>Shower</hi>'s Winter Meditations: Or a Sermon
+<pb facs="tcp:32974:42"/>concerning <hi>Froſt,</hi> and <hi>Snow,</hi> and <hi>Winds,</hi> &amp;c. and the wonders of God therein. <hi>4to.</hi>
+            </p>
+            <p>Mr. <hi>Slater</hi>'s Thankſgiving Sermon, <hi>Octob.</hi> 27. 1692. <hi>4to.</hi>
+            </p>
+            <p>— His Sermons at the Funerals of Mr. <hi>John Reynolds,</hi> and Mr. <hi>Fincher,</hi> Miniſters of the Go<g ref="char:EOLhyphen"/>ſpel. <hi>4to.</hi>
+            </p>
+            <p>The Jeſuits Catechiſm. <hi>4to.</hi>
+            </p>
+            <p>Dr. <hi>Burton</hi>'s Diſcourſes of Purity, Charity, Re<g ref="char:EOLhyphen"/>pentance, and ſeeking firſt the Kingdom of God. Publiſhed with a Preface, by Dr. <hi>John Tillotſon,</hi> late Arch-biſhop of <hi>Canterbury. 8vo.</hi>
+            </p>
+            <p>Remarks on a late Diſcourſe of <hi>William</hi> Lord Biſhop of <hi>Derry,</hi> concerning the Inventions of Men in the Worſhip of God: Alſo a Defence of the ſaid Remarks againſt his Lordſhip's Admoni<g ref="char:EOLhyphen"/>tion. By <hi>J. Boyſe. 8vo.</hi>
+            </p>
+            <p>The Works of the Right Honourable <hi>Henry,</hi> late Lord <hi>Delamere,</hi> and Earl of <hi>Warington;</hi> con<g ref="char:EOLhyphen"/>ſiſting in Thirty two Original Manuſcripts under his Lordſhip's own Hand. <hi>8vo.</hi>
+            </p>
+            <p>Biſhop <hi>Wilkins</hi>'s Diſcourſes of the Gift of Pray<g ref="char:EOLhyphen"/>er, and Preaching; the latter much inlar<g ref="char:EOLhyphen"/>ged. By the Biſhop of <hi>Norwich,</hi> and Biſhop <hi>Wil<g ref="char:EOLhyphen"/>liams. 8vo.</hi>
+            </p>
+            <p>Mr. <hi>Samuel Slater</hi>'s Earneſt Call to Family Re<g ref="char:EOLhyphen"/>ligion; being the Subſtance of Eighteen Ser<g ref="char:EOLhyphen"/>mons. <hi>8vo.</hi>
+            </p>
+            <p>Mr. <hi>Addy</hi>'s Stenographia: Or the Art of Short Writing compleated, in a far more Compendious way than any yet extant. <hi>8vo.</hi>
+            </p>
+            <p>The <hi>London Diſpenſatory,</hi> reduc'd to the Pra<g ref="char:EOLhyphen"/>ctiſe of the <hi>London</hi> Phyſicians: Wherein are con<g ref="char:EOLhyphen"/>tained the Medicines, both Galenical and Chy<g ref="char:EOLhyphen"/>mical, that are now in uſe: Thoſe out of uſe
+<pb facs="tcp:32974:43"/>omitted; and thoſe in uſe, and not in the <hi>Latin</hi> Copy, here added. By <hi>John Peachy</hi> of the Col<g ref="char:EOLhyphen"/>ledge of Phyſicians in <hi>London. 12o.</hi>
+            </p>
+            <p>A Sermon Preached at a Publick Ordination, to a Country Congregation, by Mr. <hi>S. Clark. 4to.</hi>
+            </p>
+            <p>
+               <hi>Cambridge Phraſes.</hi> By <hi>A. Robinſon. 8vo</hi>
+            </p>
+            <p>Mr. <hi>Hammond</hi>'s Sermon at Mr. <hi>Steel</hi>'s Fu<g ref="char:EOLhyphen"/>neral. <hi>8vo.</hi>
+            </p>
+            <p>Hiſtory of the Conqueſt of <hi>Florida. 8vo.</hi>
+            </p>
+            <p>Mr. <hi>Aikin</hi>'s <hi>Engliſh</hi> Grammar: Or, the <hi>Engliſh</hi> Tongue reduced to Grammatical Rules. Compoſed for the uſe of <hi>Engliſh Schools. 8vo.</hi>
+            </p>
+            <p>Mr. <hi>John Shower</hi>'s Diſcourſe of Tempting Chriſt. <hi>12o.</hi>
+            </p>
+            <p>— His Diſcourſe of Family Religion, in Three Letters. <hi>12o.</hi>
+            </p>
+            <p>Mr. <hi>Daniel Burgeſs</hi>'s Diſcourſe of the Death Reſt, Reſurrection, and Bleſſed Portion of the Saints. <hi>12o.</hi>
+            </p>
+            <p>Mr. <hi>George Hammond</hi>'s, and Mr. <hi>Matthew Bar<g ref="char:EOLhyphen"/>ker</hi>'s Diſcourſes of Family Worſhip. Writ<g ref="char:EOLhyphen"/>ten at the Requeſt of the United Miniſters of <hi>London. 12o.</hi>
+            </p>
+            <p>
+               <hi>Miſcellana Sacra:</hi> Containing Scriptural Me<g ref="char:EOLhyphen"/>ditations, Divine Breathings, occaſional Reflecti<g ref="char:EOLhyphen"/>ons, and Sacred Poems. <hi>12o.</hi>
+            </p>
+            <p>
+               <hi>Monro's Inſtitutio Grammaticae. 8vo.</hi>
+            </p>
+            <p>Sir <hi>Jonas Moor</hi>'s Mathematical Compendium. The Third Edition. <hi>12o.</hi>
+            </p>
+            <p>Mr. <hi>William Scoffin</hi>'s help to true Spelling and Reading: Or, A very eaſie Method for the teaching Children, or elder Perſons, rightly to Spell, and exactly to read <hi>Engliſh,</hi> &amp;c. <hi>8vo.</hi>
+            </p>
+            <p>The Triumphs of Grace: Or, the laſt Words, and edifying Death of the Lady <hi>Margart de la Muſſe,</hi>
+               <pb facs="tcp:32974:43"/>a Noble <hi>French</hi> Lady, aged but Sixteen Years, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n <hi>May,</hi> 1681. <hi>12o.</hi>
+            </p>
+            <p>The Map of Man's Miſery: Or, the Poor Man's Pocket-Book: Being a perpetual Al<g ref="char:EOLhyphen"/>manack of Spiritual Meditations: Containing many uſeful Inſtructions, Meditations and Pray<g ref="char:EOLhyphen"/>ers, <hi>&amp;c. 12o.</hi>
+            </p>
+            <p>Man's whole Duty, and God's wonderful intreaty of him thereunto. By Mr. <hi>Daniel Burgeſs. 12o.</hi>
+            </p>
+            <p>Advice to Parents and Children. By Mr. <hi>Da<g ref="char:EOLhyphen"/>niel. Burgeſs. 12o.</hi>
+            </p>
+            <p>Mr. <hi>Gibbon</hi>'s Sermon of Juſtification. <hi>4to.</hi>
+            </p>
+            <p>
+               <hi>Scala Naturae:</hi> Or, a Treatiſe proving, both from Nature and Scripture, the Exiſtence of good Genii, or Guardian Angels. <hi>12o.</hi>
+            </p>
+            <p>
+               <hi>Graaf de Succo, Pancreatico:</hi> Or, a Phyſical and Anatomical Treatiſe of the Nature and Office of the Pancreatick Juice. <hi>8vo.</hi>
+            </p>
+            <p>Dr. <hi>Packs Praxis Catholica:</hi> Or, the Country<g ref="char:EOLhyphen"/>man's Univerſal Remedy: Wherein is plainly and briefly laid down, the Nature, Matter, Manner, Place and Cure of moſt Diſeaſes incident to the Body of Man. <hi>8vo.</hi>
+            </p>
+            <p>
+               <hi>Engliſh</hi> Military Diſcipline: Or, the Way and Method of Exerciſing Horſe and Foot, accord<g ref="char:EOLhyphen"/>ing to the Practice of this preſent time: With a Treatiſe of all ſorts of Arms, and Engines of War, <hi>&amp;c. 8vo.</hi>
+            </p>
+            <p>
+               <hi>Orbis Imperantis Tabellae Geographico-Hiſtorico-Genealogico-Chronologicae, &amp;c.</hi> Curiouſly Engraven on Copper Plates. <hi>8vo.</hi>
+            </p>
+            <p>
+               <hi>Clavis Grammatica:</hi> Or, the Ready way to the <hi>Latin Tongue:</hi> Containing moſt plain Demon<g ref="char:EOLhyphen"/>ſtrations for the regular Tranſlating <hi>Engliſh</hi> into
+<pb facs="tcp:32974:44" rendition="simple:additions"/>
+               <hi>Latin;</hi> fitted to help ſuch as begin to <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> that <hi>Tongue.</hi> By <hi>F. B. 8vo.</hi>
+            </p>
+            <p>Mr. <hi>Nathaniel Vincents</hi> Funeral Sermon. Preach<g ref="char:EOLhyphen"/>ed by Mr. <hi>N. Taylor. 4to.</hi>
+            </p>
+            <p>Mr. <hi>Woodhouſe</hi>'s Sermon. Preached to the Secr<g ref="char:EOLhyphen"/>eties for Reformation of Manners. <hi>8vo.</hi>
+            </p>
+            <p>
+               <hi>Hydroſtaticks:</hi> Or, Inſtructions concerning Wa<g ref="char:EOLhyphen"/>ter-Works. Collected out of the Papers of Sir <hi>Samuel Morland. 12o.</hi>
+            </p>
+            <p>Mr. <hi>Addy</hi>'s Short Hand Bible.</p>
+            <p>Mr. <hi>Shower</hi>'s Sermon on the Death of Mr. <hi>Nat. Oldfield,</hi> who departed <hi>December</hi> 31. 1696. <hi>8vo.</hi>
+            </p>
+            <p>The Dying Man's Aſſiſtant: Or, ſhort Inſtructi<g ref="char:EOLhyphen"/>ons for for thoſe who are concerned in the Pre<g ref="char:EOLhyphen"/>paring of Sick Perſons for Death. <hi>12o.</hi>
+            </p>
+            <p>Mr. <hi>Stephen</hi>'s Thankſgiving Sermon before the Lord Mayor and Aldermen, at St. <hi>Mary le Bow, April</hi> 16. 1696. <hi>4to.</hi>
+            </p>
+            <p>Mr. <hi>Shower</hi>'s Thankſgiving Sermon, <hi>April</hi> 16. a696. <hi>4to.</hi>
+            </p>
+            <p>Mr. <hi>John Howard</hi>'s Aſſize Sermon at <hi>Buckingham, July</hi> 5. 1692. <hi>4to.</hi>
+            </p>
+            <p>M. <hi>John Maſon</hi>'s little Catechiſm, with little Verſes, and little ſayings for little Children. <hi>8vo.</hi>
+            </p>
+            <pb facs="tcp:32974:44"/>
+         </div>
+      </back>
+   </text>
+</TEI>
